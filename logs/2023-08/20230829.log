@@ -1,0 +1,261 @@
+[INFO ] 2023-08-29 15:25:19.030 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-08-29 15:25:19.033 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-08-29 15:25:19.070 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-08-29 15:25:19.070 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-08-29 15:25:19.071 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-08-29 15:25:30.177 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-08-29 15:25:31.053 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text="Username"], Value : Requestor.
+[INFO ] 2023-08-29 15:25:31.053 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text="Username"].
+[INFO ] 2023-08-29 15:25:51.866 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text="Create Form"].
+[INFO ] 2023-08-29 15:25:51.867 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text="Create Form"].
+[INFO ] 2023-08-29 15:25:52.027 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text="Create Form"] to be present.
+[INFO ] 2023-08-29 15:25:52.229 [main] NativeBaseTest - Clicked //android.widget.TextView[@text="Create Form"] by xpath.
+[INFO ] 2023-08-29 15:25:52.229 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText, Value : Engineer.
+[INFO ] 2023-08-29 15:25:52.229 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:25:56.226 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:25:57.689 [main] NativeBaseTest - Entered value Engineer in //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:25:57.689 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:25:57.690 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:25:58.509 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:26:00.673 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'layoutGrid6$row0$column1')]//following-sibling::android.widget.EditText by xpath.
+[INFO ] 2023-08-29 15:26:00.673 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Type *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:00.673 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Type *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:00.942 [main] NativeBaseTest - Wait complete for the element //*[@text='Type *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:01.815 [main] NativeBaseTest - Clicked //*[@text='Type *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:01.817 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Type.
+[INFO ] 2023-08-29 15:26:03.792 [main] NativeBaseTest - Scroll until and click element with UI text : Type is found.
+[INFO ] 2023-08-29 15:26:03.792 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Source *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:03.793 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Source *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:05.048 [main] NativeBaseTest - Wait complete for the element //*[@text='Source *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:05.381 [main] NativeBaseTest - Clicked //*[@text='Source *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:05.381 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Source.
+[INFO ] 2023-08-29 15:26:06.726 [main] NativeBaseTest - Scroll until and click element with UI text : Source is found.
+[INFO ] 2023-08-29 15:26:06.726 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Nominal wall tickness *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:06.726 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Nominal wall tickness *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:07.842 [main] NativeBaseTest - Wait complete for the element //*[@text='Nominal wall tickness *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:08.178 [main] NativeBaseTest - Clicked //*[@text='Nominal wall tickness *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:08.178 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Sample.
+[INFO ] 2023-08-29 15:26:09.713 [main] NativeBaseTest - Scroll until and click element with UI text : Sample is found.
+[INFO ] 2023-08-29 15:26:09.714 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Begin station *']//following-sibling::android.widget.EditText, Value : Chennai.
+[INFO ] 2023-08-29 15:26:09.714 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Begin station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:10.833 [main] NativeBaseTest - Wait complete for the element //*[@text='Begin station *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:26:11.685 [main] NativeBaseTest - Entered value Chennai in //*[@text='Begin station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:11.685 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Begin station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:11.686 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Begin station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:12.376 [main] NativeBaseTest - Wait complete for the element //*[@text='Begin station *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:26:13.748 [main] NativeBaseTest - Clicked //*[@text='Begin station *']//following-sibling::android.widget.EditText by xpath.
+[INFO ] 2023-08-29 15:26:13.879 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-08-29 15:26:13.880 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='End station *']//following-sibling::android.widget.EditText, Value : Salem.
+[INFO ] 2023-08-29 15:26:13.880 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='End station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:14.738 [main] NativeBaseTest - Wait complete for the element //*[@text='End station *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:26:15.573 [main] NativeBaseTest - Entered value Salem in //*[@text='End station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:15.573 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='End station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:15.574 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='End station *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:16.301 [main] NativeBaseTest - Wait complete for the element //*[@text='End station *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:26:17.538 [main] NativeBaseTest - Clicked //*[@text='End station *']//following-sibling::android.widget.EditText by xpath.
+[INFO ] 2023-08-29 15:26:17.614 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-08-29 15:26:17.615 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : SMYS *.
+[INFO ] 2023-08-29 15:26:18.454 [main] NativeBaseTest - Scroll until element with UI text : SMYS * is found.
+[INFO ] 2023-08-29 15:26:18.454 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='SMYS *']//following-sibling::android.widget.EditText, Value : Test SMYS.
+[INFO ] 2023-08-29 15:26:18.454 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='SMYS *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:18.687 [main] NativeBaseTest - Wait complete for the element //*[@text='SMYS *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:26:19.555 [main] NativeBaseTest - Entered value Test SMYS in //*[@text='SMYS *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:19.556 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='SMYS *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:19.557 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='SMYS *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:26:20.293 [main] NativeBaseTest - Wait complete for the element //*[@text='SMYS *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:26:21.627 [main] NativeBaseTest - Clicked //*[@text='SMYS *']//following-sibling::android.widget.EditText by xpath.
+[INFO ] 2023-08-29 15:26:21.747 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-08-29 15:26:21.749 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Pipe OD *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:21.749 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Pipe OD *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:22.809 [main] NativeBaseTest - Wait complete for the element //*[@text='Pipe OD *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:23.111 [main] NativeBaseTest - Clicked //*[@text='Pipe OD *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:23.111 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : PipeOD.
+[INFO ] 2023-08-29 15:26:24.684 [main] NativeBaseTest - Scroll until and click element with UI text : PipeOD is found.
+[INFO ] 2023-08-29 15:26:24.684 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Condition of coating *.
+[INFO ] 2023-08-29 15:26:28.893 [main] NativeBaseTest - Scroll until element with UI text : Condition of coating * is found.
+[INFO ] 2023-08-29 15:26:28.893 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Condition of coating *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:28.894 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Condition of coating *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:29.244 [main] NativeBaseTest - Wait complete for the element //*[@text='Condition of coating *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:29.583 [main] NativeBaseTest - Clicked //*[@text='Condition of coating *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:29.584 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Good.
+[INFO ] 2023-08-29 15:26:31.077 [main] NativeBaseTest - Scroll until and click element with UI text : Good is found.
+[INFO ] 2023-08-29 15:26:31.077 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[contains(@text,'Exposed typing coating type')]//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:31.078 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[contains(@text,'Exposed typing coating type')]//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:32.441 [main] NativeBaseTest - Wait complete for the element //*[contains(@text,'Exposed typing coating type')]//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:32.899 [main] NativeBaseTest - Clicked //*[contains(@text,'Exposed typing coating type')]//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:32.899 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Paint.
+[INFO ] 2023-08-29 15:26:34.561 [main] NativeBaseTest - Scroll until and click element with UI text : Paint is found.
+[INFO ] 2023-08-29 15:26:34.562 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : ExposedTypingCoatingType.
+[INFO ] 2023-08-29 15:26:38.984 [main] NativeBaseTest - Scroll until element with UI text : ExposedTypingCoatingType is found.
+[INFO ] 2023-08-29 15:26:38.985 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='radio-button-Wax_Type'].
+[INFO ] 2023-08-29 15:26:38.985 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='radio-button-Wax_Type'].
+[INFO ] 2023-08-29 15:26:39.294 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='radio-button-Wax_Type'] to be present.
+[INFO ] 2023-08-29 15:26:39.611 [main] NativeBaseTest - Clicked //*[@resource-id='radio-button-Wax_Type'] by xpath.
+[INFO ] 2023-08-29 15:26:39.611 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='switch1'].
+[INFO ] 2023-08-29 15:26:39.611 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='switch1'].
+[INFO ] 2023-08-29 15:26:39.894 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='switch1'] to be present.
+[INFO ] 2023-08-29 15:26:40.611 [main] NativeBaseTest - Clicked //*[@resource-id='switch1'] by xpath.
+[INFO ] 2023-08-29 15:26:40.611 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Is mail sent.
+[INFO ] 2023-08-29 15:26:41.446 [main] NativeBaseTest - Scroll until element with UI text : Is mail sent is found.
+[INFO ] 2023-08-29 15:26:41.446 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='checkBox1'].
+[INFO ] 2023-08-29 15:26:41.447 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='checkBox1'].
+[INFO ] 2023-08-29 15:26:41.674 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='checkBox1'] to be present.
+[INFO ] 2023-08-29 15:26:41.963 [main] NativeBaseTest - Clicked //*[@resource-id='checkBox1'] by xpath.
+[INFO ] 2023-08-29 15:26:42.521 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c357f297-efce-4ef9-9377-a03b2716064b)] -> xpath: //*[@resource-id='rangeSlider1$rightMarker']], Direction : right.
+[INFO ] 2023-08-29 15:26:42.750 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-08-29 15:26:43.573 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c357f297-efce-4ef9-9377-a03b2716064b)] -> xpath: //*[@resource-id='rangeSlider1$rightMarker']], Direction : right.
+[INFO ] 2023-08-29 15:26:43.662 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-08-29 15:26:44.617 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c357f297-efce-4ef9-9377-a03b2716064b)] -> xpath: //*[@resource-id='rangeSlider1$rightMarker']], Direction : right.
+[INFO ] 2023-08-29 15:26:44.714 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-08-29 15:26:45.613 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c357f297-efce-4ef9-9377-a03b2716064b)] -> xpath: //*[@resource-id='rangeSlider1$rightMarker']], Direction : right.
+[INFO ] 2023-08-29 15:26:45.739 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-08-29 15:26:46.595 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c357f297-efce-4ef9-9377-a03b2716064b)] -> xpath: //*[@resource-id='rangeSlider1$rightMarker']], Direction : right.
+[INFO ] 2023-08-29 15:26:46.742 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-08-29 15:26:46.743 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Transition coating type *.
+[INFO ] 2023-08-29 15:26:53.202 [main] NativeBaseTest - Scroll until element with UI text : Transition coating type * is found.
+[INFO ] 2023-08-29 15:26:53.202 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Transition coating type *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:53.202 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Transition coating type *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:53.424 [main] NativeBaseTest - Wait complete for the element //*[@text='Transition coating type *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:53.712 [main] NativeBaseTest - Clicked //*[@text='Transition coating type *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:53.712 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Paint.
+[INFO ] 2023-08-29 15:26:55.041 [main] NativeBaseTest - Scroll until and click element with UI text : Paint is found.
+[INFO ] 2023-08-29 15:26:55.042 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Type of transition *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:55.042 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Type of transition *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:26:56.062 [main] NativeBaseTest - Wait complete for the element //*[@text='Type of transition *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:26:56.360 [main] NativeBaseTest - Clicked //*[@text='Type of transition *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:26:56.360 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Air to soil.
+[INFO ] 2023-08-29 15:26:57.777 [main] NativeBaseTest - Scroll until and click element with UI text : Air to soil is found.
+[INFO ] 2023-08-29 15:26:57.778 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Condition of coating transition *.
+[INFO ] 2023-08-29 15:27:04.365 [main] NativeBaseTest - Scroll until element with UI text : Condition of coating transition * is found.
+[INFO ] 2023-08-29 15:27:04.365 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Condition of coating transition *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:04.366 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Condition of coating transition *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:04.561 [main] NativeBaseTest - Wait complete for the element //*[@text='Condition of coating transition *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:27:04.843 [main] NativeBaseTest - Clicked //*[@text='Condition of coating transition *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:27:04.844 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Fair.
+[INFO ] 2023-08-29 15:27:06.180 [main] NativeBaseTest - Scroll until and click element with UI text : Fair is found.
+[INFO ] 2023-08-29 15:27:06.181 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Corrosion observed *.
+[INFO ] 2023-08-29 15:27:15.746 [main] NativeBaseTest - Scroll until element with UI text : Corrosion observed * is found.
+[INFO ] 2023-08-29 15:27:15.747 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Corrosion observed *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:15.747 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Corrosion observed *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:16.001 [main] NativeBaseTest - Wait complete for the element //*[@text='Corrosion observed *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:27:16.263 [main] NativeBaseTest - Clicked //*[@text='Corrosion observed *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:27:16.264 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Pitting.
+[INFO ] 2023-08-29 15:27:17.793 [main] NativeBaseTest - Scroll until and click element with UI text : Pitting is found.
+[INFO ] 2023-08-29 15:27:17.793 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Location *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:17.793 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Location *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:18.851 [main] NativeBaseTest - Wait complete for the element //*[@text='Location *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:27:19.160 [main] NativeBaseTest - Clicked //*[@text='Location *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:27:19.160 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Chennai.
+[INFO ] 2023-08-29 15:27:20.714 [main] NativeBaseTest - Scroll until and click element with UI text : Chennai is found.
+[INFO ] 2023-08-29 15:27:20.714 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Deepest pit depth *.
+[INFO ] 2023-08-29 15:27:30.407 [main] NativeBaseTest - Scroll until element with UI text : Deepest pit depth * is found.
+[INFO ] 2023-08-29 15:27:30.408 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText, Value : 65.
+[INFO ] 2023-08-29 15:27:30.408 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:30.652 [main] NativeBaseTest - Wait complete for the element //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:27:31.412 [main] NativeBaseTest - Entered value 65 in //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:31.412 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:31.412 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:32.126 [main] NativeBaseTest - Wait complete for the element //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:27:32.378 [main] NativeBaseTest - Clicked //*[@text='Deepest pit depth *']//following-sibling::android.widget.EditText by xpath.
+[INFO ] 2023-08-29 15:27:33.550 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-08-29 15:27:33.550 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText, Value : 70.
+[INFO ] 2023-08-29 15:27:33.550 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:34.635 [main] NativeBaseTest - Wait complete for the element //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:27:35.462 [main] NativeBaseTest - Entered value 70 in //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:35.463 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:35.463 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:35.782 [main] NativeBaseTest - Wait complete for the element //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:27:37.338 [main] NativeBaseTest - Clicked //*[@text='Lengthof pitting area *']//following-sibling::android.widget.EditText by xpath.
+[INFO ] 2023-08-29 15:27:37.451 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-08-29 15:27:37.451 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Description *.
+[INFO ] 2023-08-29 15:27:38.446 [main] NativeBaseTest - Scroll until element with UI text : Description * is found.
+[INFO ] 2023-08-29 15:27:38.446 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Description *']//following-sibling::android.widget.EditText, Value : Test Desc.
+[INFO ] 2023-08-29 15:27:38.447 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Description *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:38.702 [main] NativeBaseTest - Wait complete for the element //*[@text='Description *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:27:39.519 [main] NativeBaseTest - Entered value Test Desc in //*[@text='Description *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:39.520 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Description *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:39.521 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Description *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:27:40.222 [main] NativeBaseTest - Wait complete for the element //*[@text='Description *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:27:41.666 [main] NativeBaseTest - Clicked //*[@text='Description *']//following-sibling::android.widget.EditText by xpath.
+[INFO ] 2023-08-29 15:27:41.750 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-08-29 15:27:41.751 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Organisation *.
+[INFO ] 2023-08-29 15:27:54.037 [main] NativeBaseTest - Scroll until element with UI text : Organisation * is found.
+[INFO ] 2023-08-29 15:27:54.038 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Organisation *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:54.038 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Organisation *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:27:54.219 [main] NativeBaseTest - Wait complete for the element //*[@text='Organisation *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:27:54.493 [main] NativeBaseTest - Clicked //*[@text='Organisation *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:27:54.494 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Mendix.
+[INFO ] 2023-08-29 15:27:56.143 [main] NativeBaseTest - Scroll until and click element with UI text : Mendix is found.
+[INFO ] 2023-08-29 15:27:56.143 [main] NativeBaseTest - appiumScrollAction arguments received - WebElement : Approver Name *.
+[INFO ] 2023-08-29 15:28:08.098 [main] NativeBaseTest - Scroll until element with UI text : Approver Name * is found.
+[INFO ] 2023-08-29 15:28:08.099 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Approver Name *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:28:08.099 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Approver Name *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:28:08.298 [main] NativeBaseTest - Wait complete for the element //*[@text='Approver Name *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:28:08.515 [main] NativeBaseTest - Clicked //*[@text='Approver Name *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:28:08.515 [main] NativeBaseTest - appiumScrollAndClickAction arguments received - WebElement : Approver1.
+[INFO ] 2023-08-29 15:28:10.177 [main] NativeBaseTest - Scroll until and click element with UI text : Approver1 is found.
+[INFO ] 2023-08-29 15:28:13.541 [main] NativeBaseTest - Scroll foward action completed.
+[INFO ] 2023-08-29 15:28:13.541 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text="Next"].
+[INFO ] 2023-08-29 15:28:13.542 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text="Next"].
+[INFO ] 2023-08-29 15:28:14.151 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text="Next"] to be present.
+[INFO ] 2023-08-29 15:28:14.396 [main] NativeBaseTest - Clicked //android.widget.TextView[@text="Next"] by xpath.
+[INFO ] 2023-08-29 15:28:14.402 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Inspector Name *']//following-sibling::android.widget.EditText, Value : Salem.
+[INFO ] 2023-08-29 15:28:14.402 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Inspector Name *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:28:17.822 [main] NativeBaseTest - Wait complete for the element //*[@text='Inspector Name *']//following-sibling::android.widget.EditText to be present.
+[INFO ] 2023-08-29 15:28:19.553 [main] NativeBaseTest - Entered value Salem in //*[@text='Inspector Name *']//following-sibling::android.widget.EditText.
+[INFO ] 2023-08-29 15:28:19.553 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Inspection date *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:28:19.553 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Inspection date *']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-08-29 15:28:20.279 [main] NativeBaseTest - Wait complete for the element //*[@text='Inspection date *']//following-sibling::android.view.ViewGroup to be present.
+[INFO ] 2023-08-29 15:28:20.610 [main] NativeBaseTest - Clicked //*[@text='Inspection date *']//following-sibling::android.view.ViewGroup by xpath.
+[INFO ] 2023-08-29 15:28:20.611 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-08-29 15:28:20.611 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-08-29 15:28:22.012 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-08-29 15:28:22.244 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-08-29 15:28:23.228 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c357f297-efce-4ef9-9377-a03b2716064b)] -> xpath: //android.widget.Image[@index="0"]], Direction : down.
+[INFO ] 2023-08-29 15:28:23.341 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-08-29 15:28:23.342 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c357f297-efce-4ef9-9377-a03b2716064b)] -> xpath: //android.widget.Image[@index="0"]], Direction : up.
+[INFO ] 2023-08-29 15:28:23.493 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-08-29 15:28:23.494 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.Button[@text='Next'].
+[INFO ] 2023-08-29 15:28:23.494 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.Button[@text='Next'].
+[INFO ] 2023-08-29 15:28:23.928 [main] NativeBaseTest - Wait complete for the element //android.widget.Button[@text='Next'] to be present.
+[INFO ] 2023-08-29 15:28:24.393 [main] NativeBaseTest - Clicked //android.widget.Button[@text='Next'] by xpath.
+[INFO ] 2023-08-29 15:28:24.401 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Upload Document'].
+[INFO ] 2023-08-29 15:28:24.402 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Upload Document'].
+[INFO ] 2023-08-29 15:28:26.917 [main] NativeBaseTest - Wait complete for the element //*[@text='Upload Document'] to be present.
+[INFO ] 2023-08-29 15:28:27.791 [main] NativeBaseTest - Clicked //*[@text='Upload Document'] by xpath.
+[INFO ] 2023-08-29 15:28:29.271 [main] NativeBaseTest - clickById arguments received - ID : com.android.documentsui:id/icon_thumb.
+[INFO ] 2023-08-29 15:28:29.271 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : com.android.documentsui:id/icon_thumb.
+[INFO ] 2023-08-29 15:28:30.561 [main] NativeBaseTest - Wait complete for the element com.android.documentsui:id/icon_thumb to be present.
+[INFO ] 2023-08-29 15:28:31.228 [main] NativeBaseTest - Clicked com.android.documentsui:id/icon_thumb by ID.
+[INFO ] 2023-08-29 15:28:33.228 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-08-29 15:28:33.229 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-08-29 15:28:33.229 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-08-29 15:28:33.302 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-08-29 15:28:33.994 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-08-29 15:28:35.000 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-08-29 15:28:35.000 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Save'].
+[INFO ] 2023-08-29 15:28:35.000 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Save'].
+[INFO ] 2023-08-29 15:28:35.275 [main] NativeBaseTest - Wait complete for the element //*[@text='Save'] to be present.
+[INFO ] 2023-08-29 15:28:35.593 [main] NativeBaseTest - Clicked //*[@text='Save'] by xpath.
+[INFO ] 2023-08-29 15:28:35.594 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-08-29 15:28:35.594 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-08-29 15:28:37.460 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-08-29 15:28:37.800 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-08-29 15:28:37.807 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='feedback1$button'].
+[INFO ] 2023-08-29 15:28:37.807 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='feedback1$button'].
+[INFO ] 2023-08-29 15:28:38.215 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='feedback1$button'] to be present.
+[INFO ] 2023-08-29 15:28:38.660 [main] NativeBaseTest - Clicked //*[@resource-id='feedback1$button'] by xpath.
+[INFO ] 2023-08-29 15:28:38.660 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Type your feedback here'], Value : Test feedback.
+[INFO ] 2023-08-29 15:28:38.661 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Type your feedback here'].
+[INFO ] 2023-08-29 15:28:40.479 [main] NativeBaseTest - Wait complete for the element //*[@text='Type your feedback here'] to be present.
+[INFO ] 2023-08-29 15:28:41.298 [main] NativeBaseTest - Entered value Test feedback in //*[@text='Type your feedback here'].
+[INFO ] 2023-08-29 15:28:41.298 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='feedback1$switch'].
+[INFO ] 2023-08-29 15:28:41.298 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='feedback1$switch'].
+[INFO ] 2023-08-29 15:28:41.934 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='feedback1$switch'] to be present.
+[INFO ] 2023-08-29 15:28:42.071 [main] NativeBaseTest - Clicked //*[@resource-id='feedback1$switch'] by xpath.
+[INFO ] 2023-08-29 15:28:42.071 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='feedback1$send'].
+[INFO ] 2023-08-29 15:28:42.071 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='feedback1$send'].
+[INFO ] 2023-08-29 15:28:42.673 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='feedback1$send'] to be present.
+[INFO ] 2023-08-29 15:28:42.776 [main] NativeBaseTest - Clicked //*[@resource-id='feedback1$send'] by xpath.
+[INFO ] 2023-08-29 15:28:42.776 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='feedback1$success$ok'].
+[INFO ] 2023-08-29 15:28:42.776 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='feedback1$success$ok'].

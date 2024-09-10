@@ -1,0 +1,156 @@
+[INFO ] 2023-10-12 11:40:12.881 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-12 11:40:12.887 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-12 11:40:28.185 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-12 11:40:28.187 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-12 11:40:28.243 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-12 11:40:28.243 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-12 11:40:28.243 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-12 11:40:28.244 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-12 11:40:28.244 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-12 11:40:38.298 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-12 11:40:38.361 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-12 11:40:38.361 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-12 11:40:39.597 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-12 11:40:40.048 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-12 11:40:40.048 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 11:40:40.049 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 11:40:41.520 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-12 11:40:41.653 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-12 11:50:54.289 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 11:50:54.294 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 11:51:05.629 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-12 11:51:05.634 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-12 11:51:05.684 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-12 11:51:05.684 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-12 11:51:05.685 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-12 11:51:05.685 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-12 11:51:05.685 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-12 11:51:13.647 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-12 11:51:13.702 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 11:51:13.702 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 11:51:14.958 [main] NativeBaseTest - Wait complete for the element //*[@text='Go to Add-on Shipment'] to be present.
+[INFO ] 2023-10-12 11:51:15.455 [main] NativeBaseTest - Clicked //*[@text='Go to Add-on Shipment'] by xpath.
+[INFO ] 2023-10-12 11:51:15.456 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-12 11:51:17.466 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 11:51:17.466 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 11:51:17.846 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-12 11:51:18.226 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-12 11:51:18.226 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-12 11:52:32.877 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-12 11:52:32.880 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-12 11:52:32.928 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-12 11:52:32.928 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-12 11:52:32.928 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-12 11:52:32.929 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-12 11:52:32.929 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-12 11:52:40.672 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-12 11:52:40.741 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 11:52:40.742 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 11:52:42.009 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-12 11:52:42.465 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-12 11:52:42.466 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-12 11:52:45.559 [main] NativeBaseTest - Wait complete for the element //*[@text='Enter Reason'] to be present.
+[INFO ] 2023-10-12 11:52:47.832 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-12 11:52:47.832 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 11:52:47.833 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 11:52:48.695 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-12 11:52:49.065 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-12 11:52:49.066 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 11:52:49.066 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 11:52:50.298 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-12 11:52:51.394 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-12 11:52:51.395 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-12 11:52:51.821 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-12 12:01:06.792 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-12 12:01:06.795 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-12 12:01:06.836 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-12 12:01:06.837 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-12 12:01:06.837 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-12 12:01:06.837 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-12 12:01:06.837 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-12 12:01:14.493 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-12 12:01:14.543 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 12:01:14.543 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 12:01:15.785 [main] NativeBaseTest - Wait complete for the element //*[@text='Go to Add-on Shipment'] to be present.
+[INFO ] 2023-10-12 12:01:16.213 [main] NativeBaseTest - Clicked //*[@text='Go to Add-on Shipment'] by xpath.
+[INFO ] 2023-10-12 12:01:16.215 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-12 12:01:18.235 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:01:18.235 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:01:18.611 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-12 12:01:18.978 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-12 12:06:51.231 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-12 12:06:51.237 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-12 12:06:51.283 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-12 12:06:51.283 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-12 12:06:51.284 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-12 12:06:51.284 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-12 12:06:51.284 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-12 12:06:59.374 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-12 12:06:59.416 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:06:59.416 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:07:00.868 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-12 12:07:01.444 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-12 12:07:01.444 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-12 12:07:01.839 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-12 12:07:02.996 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-12 12:07:02.997 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 12:07:02.997 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 12:07:03.312 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-12 12:07:05.047 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-12 12:07:05.047 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 12:07:05.047 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 12:07:39.836 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-12 12:07:39.841 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-12 12:07:39.901 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-12 12:07:39.901 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-12 12:07:39.902 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-12 12:07:39.902 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-12 12:07:39.902 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-12 12:07:49.427 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-12 12:07:49.475 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:07:49.476 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:07:50.686 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-12 12:07:51.097 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-12 12:07:51.097 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-12 12:07:54.282 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-12 12:07:56.553 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-12 12:07:56.554 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 12:07:56.554 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 12:07:57.756 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-12 12:07:58.132 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-12 12:07:58.132 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 12:07:58.133 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 12:07:58.924 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-12 12:07:59.083 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-12 12:07:59.084 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-12 12:07:59.736 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-12 12:08:41.915 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-12 12:08:41.918 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-12 12:08:41.964 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-12 12:08:41.965 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-12 12:08:41.965 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-12 12:08:41.965 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-12 12:08:41.965 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-12 12:08:49.825 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-12 12:08:49.901 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 12:08:49.901 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Go to Add-on Shipment'].
+[INFO ] 2023-10-12 12:08:51.214 [main] NativeBaseTest - Wait complete for the element //*[@text='Go to Add-on Shipment'] to be present.
+[INFO ] 2023-10-12 12:08:51.618 [main] NativeBaseTest - Clicked //*[@text='Go to Add-on Shipment'] by xpath.
+[INFO ] 2023-10-12 12:08:51.620 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-12 12:08:53.636 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:08:53.637 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-12 12:08:53.978 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-12 12:08:54.322 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-12 12:08:54.322 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-12 12:08:57.421 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-12 12:08:59.621 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-12 12:08:59.621 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 12:08:59.621 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-12 12:09:00.419 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-12 12:09:00.703 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-12 12:09:00.703 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 12:09:00.703 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-12 12:09:01.708 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-12 12:09:01.829 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-12 12:09:01.831 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-12 12:09:03.612 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.

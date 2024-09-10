@@ -1,0 +1,52 @@
+[INFO ] 2023-11-29 13:16:14.719 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-11-29 13:16:14.723 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-11-29 13:16:14.767 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-11-29 13:16:14.767 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-11-29 13:16:14.768 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-11-29 13:16:14.768 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-11-29 13:16:14.770 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-11-29 13:16:28.294 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-11-29 13:16:28.399 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:16:28.400 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:16:31.806 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-11-29 13:16:34.843 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-11-29 13:16:34.845 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-11-29 13:16:34.846 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:16:37.579 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-11-29 13:16:40.180 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:16:41.104 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-11-29 13:16:41.104 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-11-29 13:16:41.104 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-11-29 13:16:42.817 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-11-29 13:16:45.784 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-11-29 13:16:45.785 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-11-29 13:16:45.785 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-11-29 13:16:46.669 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-11-29 13:16:49.339 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-11-29 13:16:50.221 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-11-29 13:16:50.222 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-11-29 13:16:50.223 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-11-29 13:17:47.441 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-11-29 13:17:47.445 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-11-29 13:17:47.484 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-11-29 13:17:47.484 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-11-29 13:17:47.484 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-11-29 13:17:47.485 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-11-29 13:17:47.485 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-11-29 13:17:58.499 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-11-29 13:17:58.591 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:17:58.592 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:18:01.924 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-11-29 13:18:02.988 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-11-29 13:18:02.990 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-11-29 13:18:02.990 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:18:04.766 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-11-29 13:18:06.976 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-11-29 13:18:07.855 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-11-29 13:18:07.858 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-11-29 13:18:07.858 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-11-29 13:18:09.485 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-11-29 13:18:10.535 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-11-29 13:18:10.535 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-11-29 13:18:10.536 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-11-29 13:18:12.628 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.

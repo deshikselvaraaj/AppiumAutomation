@@ -1,0 +1,1325 @@
+[INFO ] 2023-10-06 11:40:55.704 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:40:55.710 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:40:55.851 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:40:55.851 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:40:55.852 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:40:55.853 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:41:07.058 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:41:07.103 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:41:07.103 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Name'].
+[INFO ] 2023-10-06 11:41:29.205 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:41:30.523 [main] NativeBaseTest - Entered value Test Name in //android.widget.EditText[@text='Name'].
+[INFO ] 2023-10-06 11:41:31.047 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:41:31.047 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:41:31.047 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:41:31.410 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:43:25.145 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:43:25.148 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:43:25.191 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:43:25.191 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:43:25.191 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:43:25.191 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:43:32.767 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:43:32.831 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:43:32.831 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Name'].
+[INFO ] 2023-10-06 11:43:34.292 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:43:35.377 [main] NativeBaseTest - Entered value Test Name in //android.widget.EditText[@text='Name'].
+[INFO ] 2023-10-06 11:43:35.911 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:43:35.912 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:43:35.912 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:43:36.766 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:44:08.758 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:44:08.760 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:44:08.806 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:44:08.807 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:44:08.807 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:44:08.807 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:44:16.584 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:44:16.631 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:44:16.631 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Name'].
+[INFO ] 2023-10-06 11:44:17.964 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:44:19.520 [main] NativeBaseTest - Entered value Test Name in //android.widget.EditText[@text='Name'].
+[INFO ] 2023-10-06 11:44:20.046 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:44:20.046 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:44:20.046 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:44:21.056 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:51:38.462 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:51:38.465 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:51:38.502 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:51:38.503 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:51:38.503 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:51:38.504 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:51:46.071 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:51:46.120 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:51:46.120 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:51:47.653 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:51:48.765 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 11:51:49.311 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:51:49.312 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:51:49.312 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:51:49.972 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:52:57.424 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:52:57.428 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:52:57.472 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:52:57.472 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:52:57.472 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:52:57.473 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:53:05.022 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:53:05.081 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:05.081 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:06.589 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:53:08.199 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 11:53:08.199 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:53:08.200 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:08.664 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:53:10.392 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:11.069 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:53:11.070 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:53:11.070 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:53:11.991 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:53:12.300 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 11:53:13.305 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 11:53:43.757 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:53:43.760 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:53:43.799 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:53:43.799 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:53:43.800 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:53:43.800 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:53:51.649 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:53:51.698 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:51.698 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:53.354 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:53:54.579 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 11:53:54.579 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:53:54.579 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:55.136 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:53:56.997 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 11:53:57.740 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:53:57.741 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:53:57.741 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:53:58.658 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:53:59.133 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 11:54:00.144 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 11:54:02.635 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (18504705-a0af-4eef-911f-e41beefda8da)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 11:54:03.085 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 11:57:09.441 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:57:09.444 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:57:09.492 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:57:09.492 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:57:09.493 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:57:09.493 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:57:17.245 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:57:17.295 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:57:17.296 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:57:18.837 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:57:19.449 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 11:57:19.449 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:57:19.449 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:57:20.399 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:57:22.154 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 11:57:22.293 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:57:22.293 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:57:22.294 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:57:23.172 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:57:23.583 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 11:57:24.587 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 11:58:30.453 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 11:58:30.457 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 11:58:30.504 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 11:58:30.505 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 11:58:30.505 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 11:58:30.505 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 11:58:38.340 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 11:58:38.403 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:58:38.404 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:58:39.843 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:58:40.486 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 11:58:40.486 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 11:58:40.486 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 11:58:41.439 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 11:58:42.505 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 11:58:43.248 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 11:58:43.249 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:58:43.249 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 11:58:44.143 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 11:58:44.467 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 11:58:44.467 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 11:58:48.113 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 11:58:48.767 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (e31049c5-b93d-44a9-949f-817ba2eaccc0)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 11:58:48.900 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 11:58:53.028 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 11:58:53.028 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 11:58:57.985 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 11:58:58.415 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 12:38:33.414 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:38:33.417 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:38:33.461 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:38:33.461 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:38:33.461 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:38:33.461 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:38:40.340 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:38:41.410 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:38:42.710 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:38:42.711 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:41:02.373 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:41:02.376 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:41:02.420 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:41:02.421 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:41:02.421 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:41:02.421 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:41:10.204 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:41:11.273 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:41:12.522 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:41:12.522 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:42:43.724 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:42:43.727 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:42:43.764 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:42:43.765 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:42:43.765 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:42:43.766 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:42:51.490 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:42:52.554 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:42:53.898 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:42:53.899 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:43:32.264 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:43:32.267 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:43:32.303 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:43:32.304 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:43:32.304 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:43:32.304 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:43:40.128 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:43:41.193 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:43:42.548 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:43:42.549 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:46:34.361 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:46:34.363 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:46:34.405 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:46:34.406 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:46:34.406 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:46:34.406 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:46:42.365 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:46:43.431 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:46:44.785 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:46:44.786 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:49:51.919 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:49:51.922 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:49:51.962 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:49:51.962 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:49:51.962 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:49:51.963 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:49:59.596 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:50:13.761 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:50:13.765 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:50:13.823 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:50:13.823 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:50:13.823 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:50:13.824 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:50:21.566 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:52:15.166 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:52:15.169 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:52:15.212 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:52:15.213 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:52:15.213 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:52:15.213 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:52:21.746 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:52:22.818 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:52:24.162 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:52:24.162 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:52:28.048 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 12:52:28.522 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 12:52:28.522 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 12:52:28.522 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 12:52:29.890 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 12:52:30.059 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 12:52:30.061 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 12:52:30.061 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 12:53:33.809 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:53:33.812 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:53:33.855 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:53:33.855 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:53:33.855 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:53:33.856 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:53:41.638 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:53:42.713 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:53:44.005 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:53:44.005 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:53:46.319 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 12:53:47.687 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 12:53:47.688 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 12:53:47.688 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 12:53:49.021 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 12:53:49.181 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 12:53:49.182 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 12:53:49.182 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 12:54:47.965 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 12:54:47.969 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 12:54:48.013 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 12:54:48.013 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 12:54:48.013 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 12:54:48.014 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 12:54:55.773 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 12:54:56.844 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 12:54:58.149 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:54:58.150 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 12:55:01.977 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 12:55:02.410 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 12:55:02.410 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 12:55:02.411 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 12:55:03.682 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 12:55:03.855 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 12:55:03.855 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 12:55:03.856 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 12:55:37.585 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 12:55:39.793 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 12:55:39.793 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 12:55:39.794 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 12:55:40.115 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 12:55:41.758 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 12:55:42.493 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 12:55:42.493 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 12:55:42.493 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 12:55:43.417 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 12:55:43.816 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 12:55:43.816 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 12:55:57.250 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 12:55:58.033 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (3d01654f-1310-463a-baa2-8fb1e8f940c2)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 12:55:58.176 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 12:56:01.752 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 12:56:01.752 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 12:56:10.653 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 12:56:11.135 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 13:51:11.886 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 13:51:11.891 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 13:51:11.941 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 13:51:11.941 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 13:51:11.941 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 13:51:11.942 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 13:51:20.188 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 13:51:21.257 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 13:51:23.018 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 13:51:23.018 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 13:51:26.668 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 13:51:27.234 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 13:51:27.234 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 13:51:27.235 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 13:51:28.132 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 13:51:28.280 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 13:51:28.281 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 13:51:28.281 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 13:53:02.173 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 13:53:02.175 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 13:53:02.226 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 13:53:02.227 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 13:53:02.227 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 13:53:02.227 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 13:53:10.489 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 13:53:11.554 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 13:53:13.294 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 13:53:13.294 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 13:53:17.070 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 13:53:17.569 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 13:53:17.570 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 13:53:17.570 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 13:53:19.070 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 13:53:19.218 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 13:53:19.219 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 13:53:19.219 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 13:53:51.589 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 13:53:54.321 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 13:53:54.322 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 13:53:54.322 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 13:53:54.659 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 13:53:56.354 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 13:53:57.113 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 13:53:57.114 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 13:53:57.114 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 13:53:58.000 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 13:53:58.348 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 13:53:58.348 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 13:54:07.612 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 13:54:08.250 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (863d5f1e-d6be-4112-a1d2-51feebf57ab0)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 13:54:08.395 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 13:54:12.005 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 13:54:12.006 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 13:54:24.568 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 13:54:25.010 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 13:54:27.961 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 13:54:27.961 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:02:32.943 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:02:32.947 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:02:32.989 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:02:32.989 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:02:32.989 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:02:32.989 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:02:41.467 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:02:42.537 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:02:44.232 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:02:44.232 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:02:47.935 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:02:48.422 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:02:48.423 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:02:48.423 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:02:49.577 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:02:49.728 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:02:49.729 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:02:49.730 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:03:15.564 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:03:16.647 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:03:16.647 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:03:16.647 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:03:17.965 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:03:19.586 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:03:20.388 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:03:20.389 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:03:20.389 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:03:21.176 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:03:21.564 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 15:03:21.565 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 15:03:24.743 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 15:03:25.460 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (a238db70-049a-42d1-9df7-ce7dbc243c76)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 15:03:25.592 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 15:03:28.299 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 15:03:28.300 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 15:03:38.368 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 15:03:38.837 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 15:03:38.837 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Shipment Details'].
+[INFO ] 2023-10-06 15:03:41.416 [main] NativeBaseTest - Wait complete for the element //*[@text='Shipment Details'] to be present.
+[INFO ] 2023-10-06 15:03:43.528 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:03:43.530 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:10:31.483 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:10:31.487 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:10:31.534 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:10:31.534 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:10:31.534 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:10:31.535 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:10:40.488 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:10:41.542 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:10:43.357 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:10:43.357 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:10:47.496 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:10:47.931 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:10:47.932 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:10:47.932 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:10:49.203 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:10:49.401 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:10:49.401 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:10:49.402 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:11:16.582 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:11:18.429 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:11:18.430 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:11:18.430 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:11:20.103 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:11:22.766 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:11:23.311 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:11:23.311 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:11:23.312 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:11:23.675 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:11:43.106 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:11:43.109 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:11:43.162 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:11:43.162 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:11:43.162 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:11:43.163 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:11:51.187 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:11:52.251 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:11:53.970 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:11:53.970 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:11:57.724 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:11:58.218 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:11:58.218 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:11:58.219 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:11:59.762 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:11:59.914 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:11:59.914 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:11:59.915 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:12:32.054 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:12:33.949 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:12:33.949 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:12:33.949 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:12:35.652 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:12:37.380 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:12:37.951 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:12:37.951 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:12:37.952 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:12:38.457 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:13:47.687 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:13:47.690 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:13:47.740 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:13:47.741 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:13:47.741 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:13:47.741 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:13:56.077 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:13:57.144 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:13:58.959 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:13:58.959 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:14:02.640 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:14:03.133 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:14:03.133 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:14:03.133 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:14:04.722 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:14:05.585 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:14:05.585 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:14:05.586 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:14:35.777 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:14:37.897 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:14:37.897 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:14:37.897 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:14:39.767 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:14:41.518 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:14:42.081 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:14:42.082 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:14:42.082 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:14:42.540 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:15:20.044 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:15:20.048 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:15:20.096 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:15:20.097 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:15:20.097 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:15:20.098 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:15:28.448 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:15:29.521 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:15:31.290 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:15:31.291 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:15:35.113 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:15:35.661 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:15:35.661 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:15:35.661 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:15:37.012 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:15:37.169 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:15:37.169 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:15:37.171 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:16:00.747 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:16:03.744 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:16:03.744 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:16:03.744 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:16:04.068 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:16:05.804 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:16:06.655 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:16:06.656 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:16:06.656 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:16:07.458 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:16:07.837 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 15:16:07.837 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 15:16:15.062 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 15:16:16.028 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (f7259e0c-3da1-447c-bded-914112852ddf)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 15:16:16.522 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 15:16:17.284 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 15:16:17.284 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 15:16:25.467 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 15:16:26.501 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 15:16:30.777 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:16:30.777 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:46:17.361 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:46:17.364 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:46:17.405 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:46:17.405 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:46:17.405 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:46:17.406 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:46:25.676 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:46:26.744 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:47:28.037 [main] NativeBaseTest - Thread sleep started for 60.0 seconds
+[INFO ] 2023-10-06 15:48:01.324 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:48:01.327 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:48:01.370 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:48:01.371 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:48:01.371 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:48:01.371 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:48:08.596 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:48:09.677 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:49:10.942 [main] NativeBaseTest - Thread sleep started for 60.0 seconds
+[INFO ] 2023-10-06 15:49:31.403 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:49:31.406 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:49:31.457 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:49:31.457 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:49:31.457 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:49:31.457 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:49:39.550 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:49:39.613 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:49:41.883 [main] NativeBaseTest - Thread sleep started for 10.0 seconds
+[INFO ] 2023-10-06 15:49:52.353 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:49:52.354 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:49:56.518 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:49:56.933 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:49:56.933 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:49:56.933 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:49:58.226 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:49:58.423 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:49:58.424 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:49:58.424 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:50:27.507 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:50:30.823 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:50:30.824 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:50:30.824 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:50:31.150 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:50:32.859 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:50:33.589 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:50:33.589 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:50:33.590 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:50:34.084 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:50:34.605 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 15:50:34.605 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 15:50:41.702 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 15:50:42.364 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (f6072570-40a6-48b0-a581-6b0ad6d420e6)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 15:50:42.527 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 15:50:44.898 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 15:50:44.898 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 15:50:56.276 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 15:50:56.625 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 15:50:59.295 [main] NativeBaseTest - Thread sleep started for 10.0 seconds
+[INFO ] 2023-10-06 15:54:56.724 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:54:56.727 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:54:56.773 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:54:56.774 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:54:56.774 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:54:56.774 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:55:04.252 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:55:04.348 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:55:06.935 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 15:55:26.938 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 15:55:47.470 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:55:47.470 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:55:51.349 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:55:51.856 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:55:51.856 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:55:51.857 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:55:52.752 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:55:52.911 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:55:52.911 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:55:52.912 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:56:21.449 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:56:23.428 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:56:23.429 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:56:23.430 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:56:24.506 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:56:26.139 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:56:26.685 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:56:26.685 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:56:26.685 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:56:27.530 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:57:05.738 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:57:05.741 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:57:05.789 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:57:05.789 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:57:05.790 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:57:05.790 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:57:14.142 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:57:14.192 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:57:16.477 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 15:57:37.000 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:57:37.000 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:57:40.934 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:57:41.353 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:57:41.354 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:57:41.354 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:57:42.832 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:57:43.101 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:57:43.101 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-06 15:57:45.103 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:57:45.103 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:58:17.641 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:58:19.689 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 15:58:19.689 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 15:58:19.689 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:58:21.367 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 15:58:22.970 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 15:58:23.516 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 15:58:23.518 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:58:23.518 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 15:58:23.909 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 15:58:54.540 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 15:58:54.545 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 15:58:54.603 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 15:58:54.603 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 15:58:54.604 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 15:58:54.604 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 15:59:05.434 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 15:59:05.519 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 15:59:07.958 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 15:59:28.463 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:59:28.463 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 15:59:32.653 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 15:59:33.138 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 15:59:33.138 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:59:33.139 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 15:59:34.470 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 15:59:34.661 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 15:59:34.661 [main] NativeBaseTest - Thread sleep started for 5.0 seconds
+[INFO ] 2023-10-06 15:59:39.677 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 15:59:39.679 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:00:08.900 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 16:00:12.104 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 16:00:12.105 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 16:00:12.106 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:00:14.136 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 16:00:15.735 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 16:00:16.293 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 16:00:16.293 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 16:00:16.293 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 16:00:17.002 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 16:00:41.359 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 16:00:41.394 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 16:00:41.530 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 16:00:41.530 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 16:00:41.530 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 16:00:41.530 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 16:00:51.591 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 16:00:51.643 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 16:00:54.075 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 16:00:54.076 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 16:00:58.247 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 16:00:58.820 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 16:00:58.820 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 16:00:58.820 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 16:01:00.720 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 16:01:01.537 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 16:01:01.538 [main] NativeBaseTest - Thread sleep started for 5.0 seconds
+[INFO ] 2023-10-06 16:01:06.547 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 16:01:06.548 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:01:32.181 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 16:01:35.851 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 16:01:35.851 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:01:35.852 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:02:53.860 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 16:02:53.863 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 16:02:53.938 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 16:02:53.938 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 16:02:53.938 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 16:02:53.939 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 16:03:03.754 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 16:03:03.816 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 16:03:06.151 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 16:03:27.399 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 16:03:27.399 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 16:03:32.483 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 16:03:32.967 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 16:03:32.967 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 16:03:32.967 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 16:03:34.294 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 16:03:35.234 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 16:03:35.234 [main] NativeBaseTest - Thread sleep started for 10.0 seconds
+[INFO ] 2023-10-06 16:03:45.245 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:03:45.246 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:04:13.836 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 16:04:14.737 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 16:04:14.737 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 16:04:14.737 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 16:04:15.090 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 16:04:16.865 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 16:04:17.741 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 16:04:17.741 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 16:04:17.741 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 16:04:18.615 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 16:04:19.030 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 16:04:19.031 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 16:04:22.429 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 16:04:23.154 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (789b3132-cc09-44b2-9256-fbd03db986d3)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 16:04:23.361 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 16:04:27.225 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 16:04:27.225 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 16:04:32.315 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 16:04:33.771 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 16:04:35.371 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 16:04:58.066 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 16:04:58.066 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:24:59.654 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:24:59.657 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:24:59.707 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:24:59.707 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:24:59.707 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:24:59.708 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:25:09.852 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:25:09.920 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:25:12.253 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:25:32.358 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:25:32.358 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:25:36.174 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:25:36.795 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:25:36.795 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:25:36.796 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:25:38.122 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:25:38.908 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:25:38.908 [main] NativeBaseTest - Thread sleep started for 15.0 seconds
+[INFO ] 2023-10-06 17:27:28.861 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:27:28.864 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:27:28.904 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:27:28.904 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:27:28.905 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:27:28.905 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:27:37.449 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:27:37.513 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:27:39.889 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:27:59.997 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:27:59.997 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:28:03.963 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:28:04.450 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:28:04.451 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:28:04.451 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:28:05.848 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:28:05.999 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:28:05.999 [main] NativeBaseTest - Thread sleep started for 15.0 seconds
+[INFO ] 2023-10-06 17:28:21.014 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:28:21.016 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:28:26.359 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:28:29.505 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 17:28:29.505 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 17:28:29.505 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:28:29.888 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:28:31.640 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 17:28:32.365 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 17:28:32.366 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:28:32.366 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:28:33.295 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:28:33.671 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:28:33.671 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 17:28:42.011 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 17:28:42.670 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (c7121c63-a9c7-40f2-8625-d2474c831fb2)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 17:28:42.846 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 17:28:46.801 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:28:46.801 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:28:57.219 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 17:28:57.879 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 17:28:57.879 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:32:31.259 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:32:31.262 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:32:31.312 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:32:31.312 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:32:31.312 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:32:31.313 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:32:39.877 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:32:39.926 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:32:42.214 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:33:02.768 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:33:02.769 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:33:06.925 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:33:07.468 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:33:07.469 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:33:07.469 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:33:09.025 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:33:09.230 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:33:09.231 [main] NativeBaseTest - Thread sleep started for 15.0 seconds
+[INFO ] 2023-10-06 17:33:24.240 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:33:24.245 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:33:34.631 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:33:38.325 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 17:33:38.326 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 17:33:38.326 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:33:38.738 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:33:40.453 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 17:33:41.166 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 17:33:41.166 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:33:41.167 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:33:42.134 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:33:42.557 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:33:42.558 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 17:33:50.384 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 17:33:51.058 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (6cdf11ca-4cbc-4f0b-b027-36a2b4706cc9)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 17:33:51.212 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 17:33:54.866 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:33:54.866 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:34:05.422 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 17:34:05.971 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 17:34:08.484 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:34:28.904 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:34:28.905 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:34:30.968 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:34:32.316 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:34:32.316 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:34:32.316 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:34:33.531 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:34:33.713 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:34:33.713 [main] NativeBaseTest - Thread sleep started for 15.0 seconds
+[INFO ] 2023-10-06 17:34:48.724 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:34:48.726 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:34:59.027 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:35:01.528 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 17:35:01.529 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 17:35:01.529 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:35:02.198 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:35:03.230 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 17:35:03.794 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 17:35:03.794 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:35:03.794 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:35:04.247 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:41:53.106 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:41:53.109 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:41:53.152 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:41:53.153 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:41:53.153 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:41:53.154 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:42:01.527 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:42:01.572 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:42:03.844 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:42:24.326 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:42:24.326 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:42:27.932 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:42:28.380 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:42:28.380 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:42:28.380 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:42:29.729 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:42:29.855 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:42:29.856 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:42:49.856 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:42:49.857 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:47:46.362 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:47:46.365 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:47:46.403 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:47:46.404 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:47:46.404 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:47:46.404 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:47:54.697 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:47:54.750 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:47:56.995 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:48:17.522 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:48:17.523 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:48:21.177 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:48:21.648 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:48:21.648 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:48:21.648 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:48:22.815 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:48:22.953 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:48:22.953 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:48:42.955 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:48:42.955 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:49:11.209 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:49:11.211 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:49:11.258 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:49:11.258 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:49:11.258 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:49:11.259 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:49:19.142 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:49:19.202 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:49:21.463 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:49:41.924 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:49:41.924 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:49:45.593 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:49:46.100 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:49:46.101 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:49:46.101 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:49:47.389 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:49:47.537 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:49:47.537 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:52:59.650 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:52:59.653 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:52:59.694 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:52:59.695 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:52:59.695 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:52:59.695 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:53:07.615 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:53:07.670 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:53:10.127 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:53:30.605 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:53:30.606 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:53:34.185 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:53:34.702 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:53:34.703 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:53:34.704 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:53:36.031 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:53:36.168 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:53:36.168 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:53:56.180 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:53:56.181 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:53:56.485 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:53:57.968 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 17:53:57.969 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 17:53:57.969 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:53:58.263 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:53:59.364 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 17:54:00.125 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 17:54:00.126 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:54:00.126 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:54:01.032 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:54:01.396 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:55:57.097 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 17:55:57.100 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 17:55:57.144 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 17:55:57.144 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 17:55:57.144 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 17:55:57.145 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 17:56:05.238 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 17:56:05.295 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 17:56:07.644 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:56:28.154 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:56:28.155 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:56:31.828 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:56:32.337 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:56:32.338 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:56:32.338 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:56:33.621 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:56:33.771 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:56:33.772 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:56:53.788 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:56:53.790 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:57:11.027 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:57:11.926 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 17:57:11.927 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 17:57:11.928 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:57:12.258 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:57:13.962 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 17:57:14.804 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 17:57:14.804 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:57:14.804 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:57:15.691 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:57:16.060 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:57:17.357 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:57:17.357 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:57:17.727 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:57:18.154 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:57:18.155 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 17:57:20.517 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 17:57:20.954 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (e1eaf7dd-12ae-447d-a0b2-8683dffdbd6f)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 17:57:21.101 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 17:57:23.860 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:57:23.860 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:57:34.043 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 17:57:34.526 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 17:57:36.897 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:57:57.217 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:57:57.218 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:57:59.882 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:58:00.996 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:58:00.997 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:58:00.997 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:58:02.366 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:58:02.535 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:58:02.536 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:58:22.548 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:58:22.550 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:58:22.851 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:58:24.139 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 17:58:24.139 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 17:58:24.139 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:58:24.427 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:58:25.546 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 17:58:26.151 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 17:58:26.151 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:58:26.152 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:58:26.991 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:58:27.371 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:58:28.460 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:58:28.460 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:58:28.729 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:58:29.131 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:58:29.131 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 17:58:32.137 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 17:58:32.940 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (e1eaf7dd-12ae-447d-a0b2-8683dffdbd6f)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 17:58:33.081 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 17:58:35.800 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:58:35.800 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:58:44.963 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 17:58:45.319 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 17:58:48.104 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:59:08.416 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:59:08.416 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 17:59:12.260 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 17:59:13.059 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 17:59:13.060 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:59:13.060 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 17:59:13.825 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 17:59:13.970 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 17:59:13.971 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 17:59:33.978 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:59:33.978 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:59:36.576 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:59:38.595 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 17:59:38.595 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 17:59:38.595 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 17:59:39.946 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 17:59:41.089 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 17:59:41.792 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 17:59:41.792 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:59:41.792 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:59:42.756 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:59:43.182 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:59:44.297 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:59:44.297 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 17:59:44.622 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 17:59:45.033 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 17:59:45.033 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 17:59:49.072 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 17:59:49.750 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (e1eaf7dd-12ae-447d-a0b2-8683dffdbd6f)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 17:59:49.912 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 17:59:53.916 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 17:59:53.917 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:00:02.478 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 18:00:02.928 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 18:00:05.957 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:00:26.256 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:00:26.256 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:00:29.806 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 18:00:30.164 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 18:00:30.164 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:00:30.164 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:00:31.103 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 18:00:31.254 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 18:00:31.254 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:00:51.266 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:00:51.266 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:00:53.217 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:00:55.122 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 18:00:55.124 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 18:00:55.125 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:00:55.449 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:00:57.117 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 18:00:57.902 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 18:00:57.903 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:00:57.903 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:00:58.784 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:00:59.176 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:01:00.976 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:01:00.976 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:01:01.266 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:01:01.649 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:01:01.649 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 18:01:04.861 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 18:01:05.686 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (e1eaf7dd-12ae-447d-a0b2-8683dffdbd6f)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 18:01:05.849 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 18:01:08.469 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:01:08.469 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:01:17.487 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 18:01:17.975 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 18:01:21.050 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:01:41.320 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:01:41.320 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:24:41.618 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:24:41.620 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:24:41.664 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:24:41.665 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:24:41.665 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:24:41.665 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:24:50.166 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:24:50.220 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 18:25:40.046 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:25:40.048 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:25:40.087 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:25:40.088 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:25:40.089 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:25:40.089 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:25:48.828 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:25:48.880 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 18:26:26.095 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:26:26.098 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:26:26.141 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:26:26.141 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:26:26.141 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:26:26.141 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:26:34.141 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:26:34.191 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 18:30:55.744 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:30:55.747 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:30:55.792 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:30:55.793 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:30:55.793 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:30:55.793 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:31:04.046 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:31:04.098 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 18:33:24.609 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:33:24.613 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:33:24.656 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:33:24.656 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:33:24.656 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:33:24.657 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:33:31.518 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:34:26.639 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:34:26.641 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:34:26.689 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:34:26.689 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:34:26.690 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:34:26.690 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:34:35.116 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:40:54.391 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:40:54.394 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:40:54.440 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:40:54.441 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:40:54.441 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:40:54.441 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:41:02.630 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:41:02.677 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 18:41:04.966 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:41:25.413 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:41:25.413 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:41:29.196 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 18:41:29.728 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 18:41:29.728 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:41:29.728 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:41:31.116 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 18:41:31.319 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 18:41:31.320 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:41:51.329 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:41:51.329 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:41:51.950 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:41:53.337 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 18:41:53.337 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 18:41:53.338 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:41:53.683 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:41:55.434 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 18:41:56.190 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 18:41:56.191 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:41:56.191 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:41:57.094 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:41:57.459 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:41:58.325 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:41:58.325 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:41:58.675 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:41:59.111 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:41:59.111 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 18:42:03.071 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 18:42:03.834 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (f5b31027-c13f-40f3-a865-62cbfcb89fbf)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 18:42:04.035 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 18:42:06.801 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:42:06.801 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:42:17.173 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 18:42:17.640 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 18:42:20.220 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:42:40.526 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:42:40.526 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:42:44.050 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 18:42:44.503 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 18:42:44.503 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:42:44.503 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:42:45.578 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 18:42:45.746 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 18:42:45.747 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:43:05.751 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:43:05.751 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:43:06.073 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:43:07.553 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 18:43:07.553 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 18:43:07.554 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:43:07.840 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:43:09.534 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 18:43:09.722 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 18:43:09.722 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:43:09.723 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:43:10.653 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:43:11.164 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:43:11.960 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:43:11.960 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:43:12.262 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:43:12.685 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:43:12.685 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 18:43:15.880 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 18:43:16.691 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (f5b31027-c13f-40f3-a865-62cbfcb89fbf)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 18:43:16.897 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 18:43:19.598 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:43:19.598 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:43:31.692 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 18:43:32.201 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 18:43:35.247 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:43:55.540 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:43:55.540 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:43:59.226 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 18:44:00.702 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 18:44:00.703 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:44:00.703 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:44:02.015 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 18:44:03.039 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 18:44:03.040 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:44:23.047 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:44:23.048 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:44:33.810 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:44:35.131 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 18:44:35.131 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 18:44:35.131 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:44:36.432 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:44:37.532 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 18:44:38.302 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 18:44:38.303 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:44:38.303 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:44:39.231 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:44:39.685 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:44:40.511 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:44:40.511 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:44:40.874 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:44:41.298 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:44:41.298 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 18:44:44.618 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 18:44:45.473 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (f5b31027-c13f-40f3-a865-62cbfcb89fbf)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 18:44:45.626 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 18:44:48.385 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:44:48.385 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:44:59.220 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 18:44:59.772 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 18:45:02.929 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:45:23.204 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:45:23.204 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:45:27.177 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 18:45:27.576 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 18:45:27.577 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:45:27.577 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:45:28.856 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 18:45:29.000 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 18:45:29.000 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:45:49.012 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:45:49.012 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:45:50.550 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:45:52.907 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 18:45:52.907 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 18:45:52.908 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:45:53.236 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:45:54.915 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 18:45:55.669 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 18:45:55.669 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:45:55.669 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:45:56.586 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:45:56.987 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:45:58.287 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:45:58.287 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:45:58.603 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:45:58.980 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:45:58.980 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 18:46:01.481 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 18:46:02.267 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (f5b31027-c13f-40f3-a865-62cbfcb89fbf)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 18:46:02.865 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 18:46:06.409 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:46:06.409 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:46:16.327 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 18:46:17.060 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 18:46:19.567 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:46:39.880 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:46:39.881 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:53:39.129 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-06 18:53:39.132 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-06 18:53:39.173 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-06 18:53:39.174 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-06 18:53:39.174 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-06 18:53:39.175 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-06 18:53:47.825 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-06 18:53:47.874 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-06 18:53:50.076 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:54:10.480 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:54:10.480 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:54:14.039 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Stop'] to be present.
+[INFO ] 2023-10-06 18:54:14.499 [main] NativeBaseTest - Clicked //*[@text='Complete Stop'] by xpath.
+[INFO ] 2023-10-06 18:54:14.499 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:54:14.500 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='OK'].
+[INFO ] 2023-10-06 18:54:15.746 [main] NativeBaseTest - Wait complete for the element //*[@text='OK'] to be present.
+[INFO ] 2023-10-06 18:54:15.907 [main] NativeBaseTest - Clicked //*[@text='OK'] by xpath.
+[INFO ] 2023-10-06 18:54:15.907 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:54:35.920 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:54:35.920 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:54:36.229 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:54:37.606 [main] NativeBaseTest - Clicked //*[@text='Name'] by xpath.
+[INFO ] 2023-10-06 18:54:37.607 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Name'], Value : Test Name.
+[INFO ] 2023-10-06 18:54:37.607 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Name'].
+[INFO ] 2023-10-06 18:54:37.901 [main] NativeBaseTest - Wait complete for the element //*[@text='Name'] to be present.
+[INFO ] 2023-10-06 18:54:39.043 [main] NativeBaseTest - Entered value Test Name in //*[@text='Name'].
+[INFO ] 2023-10-06 18:54:39.811 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-06 18:54:39.811 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:54:39.811 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:54:40.675 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:54:41.019 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:54:42.199 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:54:42.200 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Sign'].
+[INFO ] 2023-10-06 18:54:42.464 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Sign'] to be present.
+[INFO ] 2023-10-06 18:54:42.853 [main] NativeBaseTest - Clicked //*[@text='Click here to Sign'] by xpath.
+[INFO ] 2023-10-06 18:54:42.854 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='RyersonPOD.Signature_New_Native'].
+[INFO ] 2023-10-06 18:54:46.019 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='RyersonPOD.Signature_New_Native'] to be present.
+[INFO ] 2023-10-06 18:54:46.803 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (a6bcc753-821a-464e-ae8f-eb0550a5484d)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-06 18:54:47.001 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-06 18:54:50.163 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:54:50.164 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-06 18:55:11.251 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-06 18:55:12.065 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-06 18:55:14.380 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-06 18:55:34.681 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Stop'].
+[INFO ] 2023-10-06 18:55:34.681 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Stop'].

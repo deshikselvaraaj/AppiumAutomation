@@ -1,0 +1,205 @@
+[INFO ] 2023-10-17 11:31:11.737 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 11:31:11.741 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 11:31:11.788 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 11:31:11.789 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 11:31:11.789 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 11:31:11.790 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 11:31:11.790 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 11:31:22.499 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 11:31:24.367 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (2b4269db-4695-4cc6-974d-dc85b1ec97d3)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 11:31:24.526 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 13:38:42.897 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 13:38:42.901 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 13:38:42.945 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 13:38:42.946 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 13:38:42.946 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 13:38:42.946 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 13:38:42.946 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 13:39:56.841 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 13:39:58.712 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (46c4bd78-3c34-47af-95c7-ca100506abea)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 13:39:58.893 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 13:47:22.789 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 13:47:22.792 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 13:47:22.837 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 13:47:22.837 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 13:47:22.837 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 13:47:22.837 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 13:47:22.838 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 13:47:31.532 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 13:47:33.110 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (5ffea5b0-c1a0-450d-8459-d79d9c63f96c)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 13:47:33.308 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 13:53:55.761 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 13:53:55.764 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 13:53:55.806 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 13:53:55.807 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 13:53:55.807 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 13:53:55.807 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 13:53:55.807 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 13:54:03.719 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 13:54:05.406 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (829fe4a9-2f71-4662-93b4-33926bd13cc8)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 13:54:05.581 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 13:55:05.544 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 13:55:05.547 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 13:55:05.587 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 13:55:05.587 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 13:55:05.587 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 13:55:05.587 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 13:55:05.587 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 13:55:14.528 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 13:55:16.144 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (9e2fc0fb-c9ca-4684-9d25-4dbaff67253a)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 13:55:16.308 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 14:12:39.118 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 14:12:39.121 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 14:12:39.162 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 14:12:39.163 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 14:12:39.163 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 14:12:39.163 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 14:12:39.163 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 14:12:48.957 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 14:12:50.728 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (6b904e9d-cec0-4b4e-b84a-0bf03e1c5300)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 14:12:50.904 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 15:00:58.926 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 15:00:58.929 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 15:00:58.972 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 15:00:58.972 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 15:00:58.973 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 15:00:58.973 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 15:00:58.973 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 15:01:11.781 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 15:01:13.373 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (cf1b2467-fb1b-4328-a7f0-e6012f4fd079)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 15:01:13.526 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 16:37:39.779 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 16:37:39.782 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 16:37:39.832 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 16:37:39.833 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 16:37:39.833 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 16:37:39.833 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 16:37:39.834 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 16:37:49.666 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 16:37:51.579 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (74a5a559-4d94-4fa1-914f-5e4bd0e9b26c)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 16:37:51.854 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 16:37:52.626 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.webkit.WebView.
+[INFO ] 2023-10-17 16:37:52.626 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.webkit.WebView.
+[INFO ] 2023-10-17 16:37:53.458 [main] NativeBaseTest - Wait complete for the element //android.webkit.WebView to be present.
+[INFO ] 2023-10-17 16:37:54.100 [main] NativeBaseTest - Clicked //android.webkit.WebView by xpath.
+[INFO ] 2023-10-17 16:39:41.456 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 16:39:41.459 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 16:39:41.498 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 16:39:41.499 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 16:40:29.388 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 16:40:29.388 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 16:40:29.389 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 16:40:38.215 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 16:40:39.797 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (9fbd12f4-0e9d-4697-9f37-64059dc5c216)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 16:40:39.944 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 16:40:40.428 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.webkit.WebView.
+[INFO ] 2023-10-17 16:40:40.428 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.webkit.WebView.
+[INFO ] 2023-10-17 16:40:43.025 [main] NativeBaseTest - Wait complete for the element //android.webkit.WebView to be present.
+[INFO ] 2023-10-17 16:40:43.625 [main] NativeBaseTest - Clicked //android.webkit.WebView by xpath.
+[INFO ] 2023-10-17 16:53:57.396 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 16:53:57.399 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 16:53:57.437 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 16:53:57.437 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 16:53:57.946 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 16:53:57.946 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 16:53:57.946 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 16:54:06.983 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 16:54:08.602 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (89a6b3f9-89f0-42d5-bdd1-dd28aea6fc8b)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 16:54:08.771 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 17:27:48.535 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 17:27:48.539 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 17:27:48.583 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 17:27:48.583 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 17:27:48.584 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 17:27:48.584 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 17:27:48.584 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 17:28:14.067 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 17:28:14.070 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 17:28:14.114 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 17:28:14.114 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 17:28:14.115 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 17:28:14.115 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 17:28:14.115 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 17:28:24.832 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 17:28:26.808 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (88026759-4cc6-43fc-8fed-981c9eb4a778)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 17:28:27.040 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 17:35:25.818 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 17:35:25.821 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 17:35:25.864 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 17:35:25.865 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 17:35:25.865 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 17:35:25.865 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 17:35:25.865 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 17:35:39.960 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 17:35:41.743 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (79c758da-f6f0-4692-b1b3-4064f067d9ef)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 17:35:41.923 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 17:43:08.752 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 17:43:08.754 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 17:43:08.802 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 17:43:08.802 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 17:43:08.803 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 17:43:08.803 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 17:43:08.803 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 17:43:20.203 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 17:43:22.092 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (58387aaf-206f-4a2f-89c9-85d8513718d1)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 17:43:22.243 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 17:48:26.972 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 17:48:26.977 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 17:48:27.052 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 17:48:27.052 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 17:48:27.053 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 17:48:27.054 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 17:48:27.055 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 17:52:17.590 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 17:52:17.593 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 17:52:17.638 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 17:52:17.639 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 17:52:17.639 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 17:52:17.639 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 17:52:17.640 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 17:52:26.143 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 17:52:28.148 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (73022069-7d34-4e16-ac53-76c9648231b3)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 17:52:28.309 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 17:53:39.492 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 17:53:39.495 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 17:53:39.536 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 17:53:39.536 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 17:53:39.536 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 17:53:39.536 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 17:53:39.537 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 17:53:47.860 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 17:53:49.537 [main] NativeBaseTest - appiumSwipeAction arguments received - WebElement : [[AndroidDriver:  on ANDROID (4420eb06-43d5-431a-ab30-b0bb6988fa21)] -> xpath: //*[@resource-id='RyersonPOD.Signature_New_Native']], Direction : right.
+[INFO ] 2023-10-17 17:53:49.678 [main] NativeBaseTest - Swipe action completed.
+[INFO ] 2023-10-17 19:30:22.636 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 19:30:22.639 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 19:30:22.682 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 19:30:22.682 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 19:30:22.683 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 19:30:22.683 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 19:30:22.683 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 19:30:32.226 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 19:30:32.279 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-17 19:30:35.170 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-17 19:30:35.170 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-17 19:31:41.956 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 19:31:41.959 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 19:31:41.995 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 19:31:41.996 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 19:31:41.996 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 19:31:41.996 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 19:31:41.996 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 19:31:49.887 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 19:31:49.928 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-17 19:31:52.555 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-17 19:31:52.555 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-17 19:34:02.071 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-17 19:34:02.075 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-17 19:34:02.112 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-17 19:34:02.112 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-17 19:34:02.113 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-17 19:34:02.113 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-17 19:34:02.113 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-17 19:34:09.816 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-17 19:34:09.855 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-17 19:34:12.502 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-17 19:34:12.503 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].

@@ -1,0 +1,705 @@
+[INFO ] 2023-10-04 11:46:02.225 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:46:02.228 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:47:41.358 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:47:55.256 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:48:50.297 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:49:25.607 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:49:25.615 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:50:36.327 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:51:24.068 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 11:51:24.071 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 11:51:24.108 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 11:51:24.108 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 11:51:24.108 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 11:51:24.109 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 11:51:37.367 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 11:52:33.379 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 11:52:33.382 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 11:52:33.428 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 11:52:33.429 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 11:52:33.429 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 11:52:33.429 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 11:52:43.122 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 11:54:50.058 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 11:54:50.062 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 11:54:50.109 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 11:54:50.110 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 11:54:50.110 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 11:54:50.110 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 11:54:58.774 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 11:54:58.854 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:54:58.854 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:55:14.048 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 11:55:14.740 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-04 11:55:14.740 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-04 11:55:14.740 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:55:14.981 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 11:55:17.792 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:55:18.590 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 11:55:18.590 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:55:18.591 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:55:19.398 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 11:55:20.641 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-04 11:55:20.642 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-04 11:55:20.642 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:55:20.763 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 11:55:22.014 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:55:22.658 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 11:55:22.658 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 11:55:22.658 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 11:55:23.505 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-04 11:55:23.736 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-04 11:56:40.003 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 11:56:40.005 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 11:56:40.042 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 11:56:40.042 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 11:56:40.042 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 11:56:40.043 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 11:56:48.443 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 11:56:48.536 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:56:48.536 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:57:05.182 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 11:57:06.430 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-04 11:57:06.431 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-04 11:57:06.431 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:57:06.557 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 11:57:07.989 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:57:08.116 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 11:57:08.117 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:57:08.117 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:57:09.003 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 11:57:10.221 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-04 11:57:10.222 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-04 11:57:10.222 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:57:10.353 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 11:57:11.557 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:57:12.103 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 11:57:12.103 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 11:57:12.104 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 11:57:12.388 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-04 11:57:13.024 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-04 11:59:03.797 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 11:59:03.800 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 11:59:03.841 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 11:59:03.842 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 11:59:03.842 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 11:59:03.842 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 11:59:12.347 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 11:59:12.434 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:59:12.435 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:59:28.538 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 11:59:29.766 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-04 11:59:29.767 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-04 11:59:29.767 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:59:29.894 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 11:59:31.329 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 11:59:32.052 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 11:59:32.053 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:59:32.053 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:59:32.938 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 11:59:34.070 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-04 11:59:34.071 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-04 11:59:34.073 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:59:34.209 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 11:59:35.430 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 11:59:35.543 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 11:59:35.543 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 11:59:35.544 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 11:59:36.441 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-04 11:59:36.644 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-04 12:01:06.095 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:01:06.098 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:01:06.134 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:01:06.135 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:01:06.135 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:01:06.135 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:01:12.719 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:01:12.766 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:01:12.766 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:01:13.612 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 12:01:14.862 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-04 12:01:14.863 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-04 12:01:14.863 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:01:15.006 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 12:01:15.841 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:01:16.568 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 12:01:16.568 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:01:16.568 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:01:17.420 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 12:01:18.585 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-04 12:01:18.586 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-04 12:01:18.586 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:01:18.697 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 12:01:19.956 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:01:20.540 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 12:01:20.540 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 12:01:20.540 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 12:01:21.440 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-04 12:01:21.634 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-04 12:10:23.564 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:10:23.569 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:10:23.623 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:10:23.623 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:10:23.623 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:10:23.624 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:10:31.247 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:10:31.295 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:10:31.296 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:10:32.127 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 12:10:32.369 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-04 12:10:32.371 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-04 12:10:32.372 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:10:33.590 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-04 12:10:34.426 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-04 12:10:35.129 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 12:10:35.129 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:10:35.129 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:10:35.976 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 12:10:37.120 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-04 12:10:37.121 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-04 12:10:37.121 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:10:37.249 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-04 12:10:38.478 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-04 12:10:38.586 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 12:10:38.587 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 12:10:38.587 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-04 12:10:39.434 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-04 12:10:39.615 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-04 12:17:14.879 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:17:14.883 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:17:14.933 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:17:14.933 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:17:14.933 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:17:14.933 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:17:22.519 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:17:22.570 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:17:22.570 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:17:23.453 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:17:24.622 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:17:24.622 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 12:17:24.622 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:17:24.783 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:17:26.029 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 12:17:26.029 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:17:26.030 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:17:27.136 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:17:27.353 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:17:48.441 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:17:48.444 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:17:48.485 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:17:48.485 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:17:48.486 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:17:48.486 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:17:56.149 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:17:56.215 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:17:56.215 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:17:57.107 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:17:58.157 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:17:58.157 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:17:58.157 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:17:58.329 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:17:58.586 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:20:14.042 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:20:14.046 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:20:14.090 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:20:14.091 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:20:14.091 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:20:14.091 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:20:21.687 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:20:21.742 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:20:21.743 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:20:22.659 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:20:23.827 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:23:38.325 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:23:38.327 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:23:38.370 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:23:38.371 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:23:38.371 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:23:38.371 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:23:44.778 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:23:44.827 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:23:44.827 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:23:45.797 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:23:46.561 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:23:46.565 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:23:46.565 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:23:46.768 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:23:46.957 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:24:48.458 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:24:48.461 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:24:48.502 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:24:48.502 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:24:48.502 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:24:48.502 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:24:54.885 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:24:54.952 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:24:54.952 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:24:55.927 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:24:56.957 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:24:56.958 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 12:24:56.958 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:24:57.098 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:24:58.333 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 12:24:58.338 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:24:58.338 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:24:59.482 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:24:59.683 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:30:47.472 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:30:47.474 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:30:47.518 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:30:47.518 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:30:47.518 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:30:47.518 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:30:55.029 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:30:55.094 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:30:55.094 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:30:56.108 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:30:56.374 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:30:56.374 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 12:30:56.374 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:30:57.527 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:30:58.739 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 12:30:58.745 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:30:58.745 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:30:58.954 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:31:00.044 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:31:00.045 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 12:31:10.242 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-04 12:32:41.668 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:32:41.671 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:32:41.710 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:32:41.710 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:32:41.710 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:32:41.711 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:32:49.317 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:32:49.363 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:32:49.363 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:32:50.281 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:32:51.334 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:32:51.334 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 12:32:51.334 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:32:51.492 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:32:52.735 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 12:32:52.738 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:32:52.738 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:32:53.908 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:32:54.103 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:32:54.104 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 12:33:04.126 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-04 12:36:45.482 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:36:45.485 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:36:45.531 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:36:45.532 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:36:45.532 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:36:45.533 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:36:53.030 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:36:53.076 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:36:53.076 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:36:54.000 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:36:55.041 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:36:55.041 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 12:36:55.042 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:36:55.175 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:36:55.926 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 12:36:55.934 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:36:55.935 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:36:57.067 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:36:57.292 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:36:57.293 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 12:37:07.390 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-04 12:38:56.011 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 12:38:56.014 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 12:38:56.057 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 12:38:56.058 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 12:38:56.058 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 12:38:56.058 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 12:39:03.438 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 12:39:03.500 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:39:03.500 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:39:04.381 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:39:04.680 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 12:39:04.681 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 12:39:04.681 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 12:39:05.602 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 12:39:06.870 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 12:39:06.878 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:39:06.878 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 12:39:07.094 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 12:39:08.083 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 12:39:08.084 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 12:39:17.943 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-04 14:35:21.319 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 14:35:21.323 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 14:35:21.377 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 14:35:21.377 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 14:35:21.377 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 14:35:21.378 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 14:35:47.037 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 14:35:47.169 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:35:47.169 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:35:49.071 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 14:35:50.881 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 14:35:50.881 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 14:35:50.882 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:35:51.133 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 14:35:52.589 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 14:35:52.597 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 14:35:52.597 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 14:35:53.966 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 14:35:54.337 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 14:35:54.338 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 14:36:08.905 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-04 14:42:54.994 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 14:42:54.999 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 14:43:12.485 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 14:43:12.492 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 14:43:12.553 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 14:43:12.554 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 14:43:12.556 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 14:43:12.556 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 14:43:21.021 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 14:43:21.076 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 14:43:21.076 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 14:43:22.266 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-04 14:43:22.652 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-04 14:43:22.653 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 14:43:22.653 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 14:43:23.901 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 14:43:24.064 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 14:51:38.915 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 14:51:38.919 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 14:51:38.974 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 14:51:38.975 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 14:51:38.975 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 14:51:38.975 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 14:53:40.032 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 14:53:40.035 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 14:53:40.083 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 14:53:40.083 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 14:53:40.083 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 14:53:40.084 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 14:53:48.246 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 14:53:48.295 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:53:48.295 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:53:49.195 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 14:53:50.293 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 14:53:50.294 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 14:53:50.294 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:53:50.461 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 14:53:51.701 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 14:53:51.706 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 14:53:51.706 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 14:53:51.951 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 14:53:52.964 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 14:53:52.965 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 14:55:15.436 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 14:55:15.441 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 14:55:15.491 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 14:55:15.491 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 14:55:15.492 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 14:55:15.492 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 14:55:23.586 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 14:55:23.645 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:55:23.646 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:55:24.524 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 14:55:24.772 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 14:55:24.772 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 14:55:24.772 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 14:55:25.864 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 14:55:27.120 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 14:55:27.126 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 14:55:27.126 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 14:55:28.273 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 14:55:29.633 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 14:55:29.634 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 14:55:39.182 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-04 14:56:21.239 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 14:56:21.243 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 14:56:21.289 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 14:56:21.290 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 14:56:21.290 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 14:56:21.290 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 14:56:29.190 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 14:56:29.244 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 14:56:29.244 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 14:56:30.446 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-04 14:56:30.855 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-04 14:56:30.856 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 14:56:30.856 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 14:56:32.213 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 14:56:32.391 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 14:56:32.392 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/alertTitle'].
+[INFO ] 2023-10-04 15:00:23.960 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 15:00:23.964 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 15:00:24.015 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 15:00:24.016 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 15:00:24.016 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 15:00:24.016 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 15:00:32.071 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 15:00:32.113 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:00:32.113 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:00:33.336 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-04 15:00:33.865 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-04 15:01:03.589 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 15:01:03.592 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 15:01:03.638 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 15:01:03.639 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 15:01:03.639 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 15:01:03.639 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 15:01:11.403 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 15:01:11.455 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:01:11.456 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:01:12.736 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-04 15:01:13.235 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-04 15:01:13.236 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:01:13.236 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:01:14.548 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 15:01:14.708 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 15:01:34.721 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-04 15:01:34.722 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/alertTitle'].
+[INFO ] 2023-10-04 15:07:05.594 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 15:07:05.597 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 15:07:05.646 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 15:07:05.646 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 15:07:05.646 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 15:07:05.646 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 15:07:12.693 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 15:07:12.747 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:07:12.748 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:07:13.881 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-04 15:07:14.314 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-04 15:07:14.315 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:07:14.315 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:07:15.415 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 15:07:16.211 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 15:08:36.223 [main] NativeBaseTest - Thread sleep started for 80.0 seconds
+[INFO ] 2023-10-04 15:08:36.224 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/alertTitle'].
+[INFO ] 2023-10-04 15:12:42.512 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 15:12:42.515 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 15:12:42.562 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 15:12:42.562 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 15:12:42.562 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 15:12:42.563 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 15:12:50.123 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 15:12:50.210 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:12:50.210 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-04 15:12:51.648 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-04 15:12:52.128 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-04 15:12:52.128 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:12:52.128 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:12:53.573 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 15:12:53.725 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 15:13:52.466 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:13:52.466 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 15:13:52.656 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 15:13:53.432 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 17:06:14.199 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:06:14.203 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:06:14.245 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:06:14.245 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:06:14.246 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:06:14.246 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:06:22.900 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:06:22.954 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:06:22.955 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:06:24.082 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:06:24.485 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:06:24.487 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Enter Reason']//following::android.view.ViewGroup, Value : Test Reason.
+[INFO ] 2023-10-04 17:06:24.487 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason']//following::android.view.ViewGroup.
+[INFO ] 2023-10-04 17:11:25.832 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:11:25.835 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:11:25.885 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:11:25.885 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:11:25.885 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:11:25.885 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:11:34.490 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:11:34.545 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:11:34.545 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:11:35.672 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:11:36.059 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:11:36.060 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //*[@text='Enter Reason']//following-sibling::android.view.ViewGroup, Value : Test Reason.
+[INFO ] 2023-10-04 17:11:36.060 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason']//following-sibling::android.view.ViewGroup.
+[INFO ] 2023-10-04 17:15:48.974 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:15:48.977 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:15:49.027 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:15:49.027 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:15:49.028 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:15:49.028 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:15:57.459 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:15:57.514 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:15:57.515 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:15:58.662 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:15:59.070 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:15:59.072 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : Test Reason.
+[INFO ] 2023-10-04 17:15:59.073 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 17:15:59.671 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 17:16:02.473 [main] NativeBaseTest - Entered value Test Reason in //android.widget.EditText.
+[INFO ] 2023-10-04 17:20:28.980 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:20:28.983 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:20:29.032 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:20:29.032 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:20:29.033 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:20:29.033 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:20:37.589 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:20:37.653 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:20:37.653 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:20:38.792 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:20:39.187 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:20:39.188 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 17:20:39.842 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 17:21:33.006 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:21:33.009 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:21:33.049 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:21:33.049 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:21:33.049 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:21:33.050 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:21:41.818 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:21:41.860 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:21:41.860 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:21:42.998 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:21:43.393 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:21:43.393 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:21:46.773 [main] NativeBaseTest - Wait complete for the element //*[@text='Enter Reason'] to be present.
+[INFO ] 2023-10-04 17:22:38.976 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:22:38.980 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:22:39.026 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:22:39.026 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:22:39.026 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:22:39.027 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:22:47.256 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:22:47.365 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:22:47.366 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:22:48.692 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:22:49.105 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:22:49.105 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:22:52.421 [main] NativeBaseTest - Wait complete for the element //*[@text='Enter Reason'] to be present.
+[INFO ] 2023-10-04 17:24:05.117 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:24:05.120 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:24:05.160 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:24:05.161 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:24:05.161 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:24:05.161 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:24:12.406 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:24:12.493 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:24:12.494 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:24:13.614 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:24:13.989 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:24:13.992 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:24:17.300 [main] NativeBaseTest - Wait complete for the element //*[@text='Enter Reason'] to be present.
+[INFO ] 2023-10-04 17:24:17.570 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:24:17.570 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:24:17.885 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-04 17:24:18.539 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-04 17:25:27.426 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:25:27.429 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:25:27.472 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:25:27.473 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:25:27.473 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:25:27.474 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:25:34.869 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:25:34.924 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:25:34.924 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:25:36.121 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:25:36.507 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:25:36.508 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:25:40.120 [main] NativeBaseTest - Wait complete for the element //*[@text='Enter Reason'] to be present.
+[INFO ] 2023-10-04 17:25:42.243 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 17:25:42.243 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:25:42.243 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:25:43.017 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-04 17:25:43.351 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-04 17:35:48.028 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:35:48.032 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:35:48.083 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:35:48.083 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:35:48.083 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:35:48.083 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:35:56.910 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:35:56.988 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:35:56.988 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:35:58.184 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:35:58.609 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:35:58.609 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:36:02.020 [main] NativeBaseTest - Wait complete for the element //*[@text='Enter Reason'] to be present.
+[INFO ] 2023-10-04 17:36:04.434 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 17:36:04.434 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:36:04.435 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:36:05.368 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-04 17:36:05.619 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-04 17:36:05.620 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 17:36:05.620 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 17:36:06.592 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 17:36:06.796 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 17:36:06.797 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-04 17:36:07.258 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-04 17:37:28.006 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:37:28.010 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:37:28.066 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:37:28.066 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:37:28.066 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:37:28.068 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:37:38.044 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:37:38.099 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:37:38.099 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:37:39.419 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:37:39.905 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:37:39.906 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:38:11.089 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:38:11.092 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:38:11.147 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:38:11.147 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:38:11.147 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:38:11.147 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:38:19.603 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:38:19.683 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:38:19.684 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:38:20.981 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:38:21.510 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:38:21.511 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:39:03.941 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 17:39:03.944 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 17:39:03.986 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 17:39:03.986 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 17:39:03.986 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 17:39:03.987 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 17:39:13.267 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 17:39:13.329 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:39:13.330 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-04 17:39:14.540 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-04 17:39:14.969 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-04 17:39:14.969 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Enter Reason'].
+[INFO ] 2023-10-04 17:39:18.135 [main] NativeBaseTest - Wait complete for the element //*[@text='Enter Reason'] to be present.
+[INFO ] 2023-10-04 17:39:20.846 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-04 17:39:20.846 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:39:20.847 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-04 17:39:21.900 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-04 17:39:22.205 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-04 17:39:22.206 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 17:39:22.206 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-04 17:39:33.999 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-04 17:39:34.183 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-04 17:39:34.183 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-04 17:39:34.561 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-04 18:38:48.596 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 18:38:48.600 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 18:39:04.193 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-04 18:39:04.196 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-04 18:39:04.243 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-04 18:39:04.243 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-04 18:39:04.243 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-04 18:39:04.243 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-04 18:39:12.216 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-04 18:39:12.298 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-04 18:39:12.299 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 18:39:13.173 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 18:39:13.452 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-04 18:39:13.452 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-04 18:39:13.452 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-04 18:39:14.623 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-04 18:39:15.442 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-04 18:39:15.448 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 18:39:15.449 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-04 18:39:16.666 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-04 18:39:16.905 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-04 18:39:16.906 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-04 18:39:32.524 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.

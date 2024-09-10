@@ -1,0 +1,530 @@
+[INFO ] 2023-10-26 11:43:18.906 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 11:43:18.912 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 11:43:18.974 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 11:43:18.975 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 11:43:18.976 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 11:43:18.976 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 11:43:18.978 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 11:43:39.426 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 11:43:39.503 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 11:43:42.812 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 11:43:42.812 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 11:43:46.558 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 11:43:47.578 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 11:43:47.578 [main] NativeBaseTest - Thread sleep started for 17.0 seconds
+[INFO ] 2023-10-26 11:44:04.590 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 11:44:04.591 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 11:44:06.343 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 11:44:09.771 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 11:44:09.772 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:44:09.773 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:44:23.263 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 11:44:23.390 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 11:44:23.390 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 11:44:25.392 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:44:25.393 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:46:53.904 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 11:46:53.909 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 11:46:53.964 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 11:46:53.965 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 11:46:53.965 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 11:46:53.967 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 11:46:53.967 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 11:47:04.358 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 11:47:04.406 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 11:47:07.741 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 11:47:07.741 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 11:47:13.239 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 11:47:14.558 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 11:47:14.558 [main] NativeBaseTest - Thread sleep started for 17.0 seconds
+[INFO ] 2023-10-26 11:47:31.569 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 11:47:31.569 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 11:58:01.340 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 11:58:01.344 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 11:58:01.401 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 11:58:01.402 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 11:58:01.402 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 11:58:01.402 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 11:58:01.404 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 11:58:11.870 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 11:58:11.947 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 11:58:14.850 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 11:58:14.850 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 11:58:19.633 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 11:58:20.317 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 11:58:20.318 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 11:58:40.332 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 11:58:40.332 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 11:58:40.804 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 11:58:41.390 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 11:58:41.390 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:58:41.391 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:58:42.799 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 11:58:42.885 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 11:58:42.885 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 11:58:44.894 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:58:44.895 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 11:59:22.101 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 11:59:22.427 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 11:59:25.643 [main] NativeBaseTest - Thread sleep started for 25.0 seconds
+[INFO ] 2023-10-26 11:59:53.093 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 11:59:53.093 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:26:08.310 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 12:26:08.313 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 12:26:08.358 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 12:26:08.358 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 12:26:08.358 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 12:26:08.359 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 12:26:08.359 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 12:26:16.791 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 12:26:16.857 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 12:26:19.496 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:26:19.496 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:26:23.985 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 12:26:24.433 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 12:26:24.434 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 12:26:44.446 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:26:44.446 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:26:44.713 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 12:26:45.079 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 12:26:45.079 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:26:45.079 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:26:46.263 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:26:46.363 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:26:46.364 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 12:26:48.366 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:26:48.367 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:26:58.957 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:26:59.188 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:30:48.031 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 12:30:48.034 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 12:30:48.076 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 12:30:48.076 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 12:30:48.076 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 12:30:48.078 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 12:30:48.079 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 12:30:57.626 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 12:30:57.676 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 12:31:00.244 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:31:00.244 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:31:04.062 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 12:31:04.541 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 12:31:04.541 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 12:31:24.551 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:31:24.551 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:31:24.903 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 12:31:25.289 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 12:31:25.289 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:31:25.289 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:31:26.399 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:31:26.499 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:31:26.500 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 12:31:28.505 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:31:28.509 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:31:42.755 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:31:43.054 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:31:45.471 [main] NativeBaseTest - Thread sleep started for 25.0 seconds
+[INFO ] 2023-10-26 12:32:10.840 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:32:10.841 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:33:30.780 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 12:33:30.783 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 12:33:30.823 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 12:33:30.823 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 12:33:30.824 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 12:33:30.824 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 12:33:30.824 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 12:33:39.725 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 12:33:39.771 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 12:33:42.659 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:33:42.660 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:34:30.413 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 12:34:30.417 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 12:34:30.457 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 12:34:30.458 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 12:34:30.458 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 12:34:30.458 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 12:34:30.458 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 12:34:38.841 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 12:34:38.884 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 12:34:41.664 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:34:41.664 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:35:16.243 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 12:35:16.246 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 12:35:16.300 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 12:35:16.300 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 12:35:16.301 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 12:35:16.302 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 12:35:16.303 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 12:35:24.811 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 12:35:24.889 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 12:35:27.438 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:35:27.439 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:35:31.625 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 12:35:32.231 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 12:35:32.231 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 12:35:52.244 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:35:52.244 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:35:52.551 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 12:35:52.957 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 12:35:52.957 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:35:52.958 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:35:54.109 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:35:54.219 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:35:54.220 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 12:35:56.227 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:35:56.228 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:36:10.216 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:36:10.542 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:36:14.848 [main] NativeBaseTest - Thread sleep started for 25.0 seconds
+[INFO ] 2023-10-26 12:47:17.310 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 12:47:17.315 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 12:47:17.362 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 12:47:17.362 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 12:47:17.362 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 12:47:17.363 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 12:47:17.363 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 12:47:26.130 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 12:47:26.179 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 12:47:29.595 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:47:29.595 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:47:33.333 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 12:47:33.847 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 12:47:33.847 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 12:47:53.856 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:47:53.856 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 12:47:54.162 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 12:47:54.531 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 12:47:54.531 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:47:54.532 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:47:55.840 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:47:55.999 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:47:55.999 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 12:47:58.001 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:47:58.003 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 12:48:08.780 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 12:48:09.041 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 12:48:11.402 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-26 12:48:41.762 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 12:48:41.762 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:25:04.467 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 13:25:04.470 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 13:25:04.512 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 13:25:04.513 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 13:25:04.513 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 13:25:04.513 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 13:25:04.515 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 13:25:14.159 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 13:25:14.206 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 13:25:16.894 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:25:16.894 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:25:20.748 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 13:25:21.143 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 13:25:21.144 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 13:25:41.153 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 13:25:41.153 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 13:25:41.426 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 13:25:41.841 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 13:25:41.842 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 13:25:41.842 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 13:25:42.956 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 13:25:43.058 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 13:25:43.058 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 13:25:45.071 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 13:25:45.072 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 13:26:59.442 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 13:26:59.863 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 13:27:02.570 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-26 13:27:32.963 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:27:32.963 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:28:24.258 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 13:28:24.261 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 13:28:24.308 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 13:28:24.308 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 13:28:24.308 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 13:28:24.309 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 13:28:24.309 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 13:28:32.387 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 13:28:32.432 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 13:28:35.254 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:28:35.254 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:29:04.882 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 13:29:04.886 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 13:29:04.923 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 13:29:04.924 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 13:29:04.924 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 13:29:04.924 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 13:29:04.924 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 13:29:12.636 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 13:29:12.693 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 13:29:15.380 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 13:29:15.381 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:00:27.974 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 15:00:27.977 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 15:00:28.023 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 15:00:28.023 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 15:00:28.024 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 15:00:28.024 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 15:00:28.025 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 15:00:35.049 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 15:00:35.090 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 15:00:37.720 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:00:37.721 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:00:41.742 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 15:00:42.286 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 15:00:42.286 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 15:01:20.958 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 15:01:20.961 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 15:01:20.999 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 15:01:21.000 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 15:01:21.000 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 15:01:21.000 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 15:01:21.000 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 15:01:29.941 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 15:01:29.981 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 15:01:32.639 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:01:32.639 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:01:36.379 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 15:01:36.824 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 15:01:36.824 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 15:01:56.833 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:01:56.834 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:01:57.157 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 15:01:57.467 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 15:01:57.467 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:01:57.467 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:01:58.597 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:01:58.709 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:01:58.709 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 15:02:00.712 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:02:00.716 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:02:12.070 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:02:12.337 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:02:12.337 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-26 15:02:42.468 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-26 15:02:44.650 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:02:44.651 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:02:46.365 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 15:02:48.286 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 15:02:48.286 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 15:03:08.294 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:03:08.294 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:03:08.567 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 15:03:08.931 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 15:03:08.931 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:03:08.931 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:03:10.030 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:03:10.140 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:03:10.140 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 15:03:12.145 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:03:12.146 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:03:25.039 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:03:26.368 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:03:26.368 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-26 15:03:56.449 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-26 15:06:34.058 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 15:06:34.062 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 15:06:34.108 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 15:06:34.109 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 15:06:34.109 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 15:06:34.109 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 15:06:34.109 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 15:06:42.233 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 15:06:42.282 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 15:06:44.988 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:06:44.989 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:06:48.805 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 15:06:49.204 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 15:06:49.205 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 15:07:09.211 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:07:09.211 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:07:09.478 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 15:07:09.826 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 15:07:09.827 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:07:09.827 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:07:10.962 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:07:12.416 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:07:12.416 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 15:07:14.421 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:07:14.423 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:07:24.424 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:07:24.586 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:07:24.586 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-26 15:07:54.669 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-26 15:07:56.901 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:07:56.901 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 15:08:00.588 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 15:08:01.302 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 15:08:01.303 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 15:08:21.313 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:08:21.313 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-26 15:08:21.701 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-26 15:08:22.116 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-26 15:08:22.116 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:08:22.116 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:08:23.356 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:08:23.443 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:08:23.445 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-26 15:08:25.448 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:08:25.449 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-26 15:08:41.102 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-26 15:08:41.388 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-26 15:08:41.389 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-26 15:09:11.484 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-26 15:23:52.084 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 15:23:52.087 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 15:23:52.126 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 15:23:52.126 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 15:23:52.127 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 15:23:52.127 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 15:23:52.127 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 15:24:00.116 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 15:24:00.156 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-26 15:24:00.156 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 15:24:01.404 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-26 15:24:02.672 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-26 15:24:02.672 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-26 15:24:02.673 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 15:24:02.871 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-26 15:24:04.438 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-26 15:24:04.442 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-26 15:24:04.443 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-26 15:24:05.656 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-26 15:24:05.982 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-26 15:24:05.982 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-26 15:24:17.622 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-26 15:24:19.336 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-26 15:24:19.337 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-26 15:24:19.593 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-26 15:24:19.909 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-26 15:24:19.909 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:24:19.909 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:24:21.225 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-26 15:24:21.350 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-26 15:25:58.425 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:25:58.426 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:25:58.664 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-26 15:25:59.166 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-26 15:25:59.166 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 15:26:00.919 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-26 15:26:00.919 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-26 15:31:28.893 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 15:31:28.897 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 15:31:28.946 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 15:31:28.947 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 15:31:28.947 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 15:31:28.947 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 15:31:28.948 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 15:31:36.794 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 15:31:36.834 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-26 15:31:36.834 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 15:31:37.779 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-26 15:31:39.036 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-26 15:31:39.036 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-26 15:31:39.037 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 15:31:39.241 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-26 15:31:40.785 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-26 15:31:40.789 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-26 15:31:40.789 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-26 15:31:42.042 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-26 15:31:43.400 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-26 15:31:43.400 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-26 15:31:54.510 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-26 15:31:54.945 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-26 15:31:54.946 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-26 15:31:55.212 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-26 15:31:56.305 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-26 15:31:56.306 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:31:56.306 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:31:57.388 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-26 15:31:57.495 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-26 15:33:19.283 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:33:19.284 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 15:33:19.397 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-26 15:33:19.616 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-26 15:33:19.621 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 15:33:21.557 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-26 15:33:21.557 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-26 17:49:12.347 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 17:49:12.350 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 17:49:12.387 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 17:49:12.387 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 17:49:12.388 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 17:49:12.388 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 17:49:12.388 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 17:49:21.248 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 17:49:21.289 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 17:49:23.959 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 17:49:23.959 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-26 17:49:27.783 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-26 17:49:28.241 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-26 17:49:28.242 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-26 17:53:56.618 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 17:53:56.620 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 17:53:56.660 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 17:53:56.660 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 17:53:56.660 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 17:53:56.661 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 17:53:56.661 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 17:54:05.970 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 17:54:06.020 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-26 17:54:06.020 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 17:54:07.072 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-26 17:54:08.205 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-26 17:54:08.205 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-26 17:54:08.205 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 17:54:08.377 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-26 17:54:09.983 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-26 17:54:09.987 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-26 17:54:09.988 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-26 17:54:10.286 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-26 17:54:11.257 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-26 17:54:11.257 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-26 17:54:31.129 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-26 17:54:31.575 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-26 17:54:31.575 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-26 17:54:31.851 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-26 17:54:32.156 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-26 17:54:32.156 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 17:54:32.156 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 17:54:33.245 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-26 17:54:33.342 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-26 17:56:34.958 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 17:56:34.958 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-26 17:56:35.115 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-26 17:56:35.540 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-26 17:56:35.545 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-26 17:59:40.490 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 17:59:40.499 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 17:59:40.604 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 17:59:40.605 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 17:59:40.605 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 17:59:40.605 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 17:59:40.606 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 17:59:40.775 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 17:59:40.780 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 17:59:40.837 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 17:59:40.837 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 17:59:40.837 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 17:59:40.838 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 17:59:40.838 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 17:59:49.409 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 17:59:49.461 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-26 17:59:49.461 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 17:59:50.423 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-26 17:59:51.230 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-26 17:59:51.358 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-26 17:59:51.359 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-26 18:02:51.132 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 18:02:51.135 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 18:02:51.172 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 18:02:51.173 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 18:02:51.173 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 18:02:51.173 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 18:02:51.174 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-26 18:03:28.149 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-26 18:03:28.152 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-26 18:03:28.197 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-26 18:03:28.197 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-26 18:03:28.198 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-26 18:03:28.198 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-26 18:03:28.198 [main] NativeBaseTest - PORT fecthed from configuration properties

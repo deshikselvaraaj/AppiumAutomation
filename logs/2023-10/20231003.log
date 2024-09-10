@@ -1,0 +1,9 @@
+[INFO ] 2023-10-03 15:22:52.409 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-03 15:22:52.414 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-03 15:22:52.464 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-03 15:22:52.464 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-03 15:22:52.464 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-03 15:22:52.464 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-03 15:23:03.885 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-03 15:23:03.964 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-03 15:23:03.964 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].

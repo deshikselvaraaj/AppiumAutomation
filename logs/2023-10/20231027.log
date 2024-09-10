@@ -1,0 +1,893 @@
+[INFO ] 2023-10-27 11:25:50.172 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 11:25:50.176 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 11:25:50.249 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 11:25:50.249 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 11:25:50.251 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 11:25:50.253 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 11:25:50.255 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 11:26:10.064 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 11:26:10.174 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 11:26:10.174 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 11:26:12.216 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 11:26:12.731 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 11:26:12.731 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 11:26:12.734 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 11:26:14.861 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 11:26:16.640 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 11:26:16.645 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 11:26:16.646 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 11:26:17.244 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 11:26:58.417 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 11:26:58.420 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 11:26:58.462 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 11:26:58.462 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 11:26:58.462 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 11:26:58.463 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 11:26:58.463 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 11:27:08.427 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 11:27:08.484 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 11:27:08.484 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 11:27:09.619 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 11:27:10.458 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 11:27:10.459 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 11:27:10.459 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 11:27:10.679 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 11:27:12.283 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 11:27:12.287 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 11:27:12.288 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 11:27:12.675 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 11:27:13.584 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 11:27:13.585 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 11:27:30.034 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 11:27:31.600 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 11:27:31.601 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 11:27:31.874 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 11:27:32.243 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 11:27:32.243 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:27:32.244 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:27:33.532 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 11:27:33.743 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 11:28:47.189 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:28:47.189 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:28:47.380 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 11:28:47.771 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 11:28:47.775 [main] NativeBaseTest - Thread sleep started for 15.0 seconds
+[INFO ] 2023-10-27 11:29:03.217 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 11:29:03.218 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 11:29:06.701 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-27 11:29:07.031 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-27 11:29:07.031 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-27 11:29:27.033 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 11:29:27.033 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 11:29:27.301 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-27 11:29:27.594 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-27 11:29:27.594 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:29:27.595 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:29:28.757 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 11:29:28.849 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 11:29:28.850 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 11:29:30.863 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:29:30.863 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:29:49.002 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 11:29:49.296 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 11:29:49.296 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-27 11:30:19.418 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 11:30:21.531 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 11:30:21.532 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 11:30:25.243 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-27 11:30:25.616 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-27 11:30:25.617 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-27 11:30:45.618 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 11:30:45.618 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 11:30:45.947 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-27 11:30:46.314 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-27 11:30:46.314 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:30:46.315 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:30:47.670 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 11:30:48.943 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 11:30:48.943 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 11:30:50.952 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:30:50.953 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 11:31:02.055 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 11:31:02.275 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 11:31:02.276 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-27 11:31:32.380 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 11:31:33.588 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-27 11:31:33.588 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-27 11:31:33.915 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Shipment'] to be present.
+[INFO ] 2023-10-27 11:31:34.496 [main] NativeBaseTest - Clicked //*[@text='Complete Shipment'] by xpath.
+[INFO ] 2023-10-27 11:31:34.497 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:31:34.497 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:31:35.666 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 11:31:35.768 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 11:31:35.768 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:31:35.768 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 11:31:55.517 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 11:31:55.820 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 14:25:15.038 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 14:25:15.042 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 14:25:15.110 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 14:25:15.110 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 14:25:15.110 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 14:25:15.111 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 14:25:15.111 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 14:25:23.877 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 14:25:23.944 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 14:25:23.945 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 14:25:26.046 [main] NativeBaseTest - Wait complete for the element //*[@text='Add Photo'] to be present.
+[INFO ] 2023-10-27 14:25:26.921 [main] NativeBaseTest - Clicked //*[@text='Add Photo'] by xpath.
+[INFO ] 2023-10-27 14:41:58.999 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 14:41:59.003 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 14:41:59.043 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 14:41:59.043 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 14:41:59.044 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 14:41:59.044 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 14:41:59.044 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 14:42:08.796 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 14:42:08.848 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 14:42:08.849 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 14:42:10.893 [main] NativeBaseTest - Wait complete for the element //*[@text='Add Photo'] to be present.
+[INFO ] 2023-10-27 14:42:11.737 [main] NativeBaseTest - Clicked //*[@text='Add Photo'] by xpath.
+[INFO ] 2023-10-27 14:42:12.976 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.ImageView[@content-desc='Shutter'].
+[INFO ] 2023-10-27 14:42:12.977 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.ImageView[@content-desc='Shutter'].
+[INFO ] 2023-10-27 14:54:03.731 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 14:54:03.735 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 14:54:03.786 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 14:54:03.787 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 14:54:03.787 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 14:54:03.787 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 14:54:19.802 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 14:54:19.936 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 14:54:19.936 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:05:56.076 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 15:05:56.082 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 15:05:56.132 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 15:05:56.133 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 15:05:56.133 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 15:05:56.133 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 15:05:56.134 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 15:06:04.545 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 15:06:04.658 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:06:04.658 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:06:20.006 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:06:20.201 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-27 15:06:20.201 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-27 15:06:20.201 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:06:21.002 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:06:24.353 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:06:25.194 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:06:25.194 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:06:25.194 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:06:26.087 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:06:27.507 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-27 15:06:27.507 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-27 15:06:27.508 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:06:27.614 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:06:28.847 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:06:29.036 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:06:29.036 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:06:29.036 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:06:29.931 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-27 15:06:30.120 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-27 15:06:30.146 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:06:30.146 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:06:30.931 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:06:31.100 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:06:31.101 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 15:06:31.101 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:06:46.154 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:06:48.069 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 15:06:48.076 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:06:48.077 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:06:49.177 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 15:06:49.372 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 15:06:49.373 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 15:07:08.262 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 15:07:08.679 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:07:08.680 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:07:09.004 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 15:07:10.113 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 15:07:10.114 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:07:10.114 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:07:11.430 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:07:11.556 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:08:16.096 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:08:16.097 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:08:16.306 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:08:17.604 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:08:17.615 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:17.615 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:18.329 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:08:19.846 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:08:19.846 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : .
+[INFO ] 2023-10-27 15:08:19.847 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:20.007 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:08:21.194 [main] NativeBaseTest - Entered value  in //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:21.233 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 15:08:21.234 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 15:08:21.852 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-27 15:08:22.078 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-27 15:08:22.078 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-27 15:08:23.786 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-27 15:08:27.703 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:08:27.704 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 15:08:27.704 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 15:08:28.512 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-27 15:08:28.782 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-27 15:08:28.782 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:08:28.782 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:08:29.668 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:08:29.764 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:08:29.765 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-27 15:08:30.324 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-27 15:08:31.565 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:31.565 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:31.750 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:08:34.165 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:08:34.165 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 15:08:34.166 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:34.348 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:08:35.230 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 15:08:35.230 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:08:35.230 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:08:36.021 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 15:08:36.889 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 15:08:36.890 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 15:08:54.255 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 15:08:54.613 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:08:54.613 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:10:51.599 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 15:10:51.602 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 15:10:51.641 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 15:10:51.641 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 15:10:51.641 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 15:10:51.641 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 15:10:51.642 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 15:11:01.392 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 15:11:01.493 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:11:01.493 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:11:02.318 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:11:02.568 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-27 15:11:02.569 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-27 15:11:02.569 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:11:03.937 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:11:04.835 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:11:05.635 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:11:05.635 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:11:05.635 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:11:06.525 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:11:07.832 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-27 15:11:07.832 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-27 15:11:07.832 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:11:07.943 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:11:09.205 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:11:09.780 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:11:09.781 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:11:09.781 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:11:10.680 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-27 15:11:10.882 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-27 15:11:10.894 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:11:10.895 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:11:11.405 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:11:13.434 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:11:13.435 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 15:11:13.435 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:11:26.736 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:11:28.128 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 15:11:28.133 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:11:28.134 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:11:28.274 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 15:11:29.313 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 15:11:29.313 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 15:11:46.475 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 15:11:46.875 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:11:46.875 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:11:47.122 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 15:11:47.450 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 15:11:47.450 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:11:47.450 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:11:48.682 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:11:48.779 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:14:07.528 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 15:14:07.531 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 15:14:07.574 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 15:14:07.575 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 15:14:07.575 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 15:14:07.575 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 15:14:07.576 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 15:14:15.611 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 15:14:15.703 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:14:15.703 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:14:16.648 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:14:16.883 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-27 15:14:16.884 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-27 15:14:16.884 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:14:18.226 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:14:19.173 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:14:20.118 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:14:20.118 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:14:20.118 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:14:21.031 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:14:22.317 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-27 15:14:22.317 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-27 15:14:22.317 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:14:22.444 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:14:23.701 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:14:23.837 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:14:23.837 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:14:23.837 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:14:24.836 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-27 15:14:25.100 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-27 15:14:25.114 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:14:25.115 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:14:25.841 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:14:27.588 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:14:27.589 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042818.
+[INFO ] 2023-10-27 15:14:27.589 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:14:40.942 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:14:42.372 [main] NativeBaseTest - Entered value 23042818 in //android.widget.EditText.
+[INFO ] 2023-10-27 15:14:42.378 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:14:42.378 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:14:42.512 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 15:14:43.519 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 15:14:43.520 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 15:15:01.935 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 15:15:02.874 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:15:02.874 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:15:03.265 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 15:15:03.917 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 15:15:03.917 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:15:03.917 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:15:05.275 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:15:05.417 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:16:59.357 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:16:59.358 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:16:59.676 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:17:00.608 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:17:00.613 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:00.613 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:01.556 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:17:02.235 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:17:02.235 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : .
+[INFO ] 2023-10-27 15:17:02.236 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:03.173 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:17:04.736 [main] NativeBaseTest - Entered value  in //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:04.774 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 15:17:04.775 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 15:17:05.963 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-27 15:17:06.900 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-27 15:17:06.900 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-27 15:17:10.044 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-27 15:17:12.803 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:17:12.803 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 15:17:12.804 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 15:17:13.608 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-27 15:17:13.903 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-27 15:17:13.904 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:17:13.904 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:17:14.910 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:17:15.025 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:17:15.026 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-27 15:17:15.545 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-27 15:17:15.953 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:15.953 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:16.279 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:17:19.448 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:17:19.448 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 15:17:19.448 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:19.595 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:17:22.989 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 15:17:22.989 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:17:22.989 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:17:24.092 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 15:17:24.241 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 15:17:24.241 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 15:17:40.945 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 15:17:41.277 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:17:41.278 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:17:41.472 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 15:17:41.747 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 15:17:41.747 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:17:41.748 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:17:42.881 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:17:42.979 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:18:51.384 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:18:51.384 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:18:51.558 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:18:51.973 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:18:51.977 [main] NativeBaseTest - Thread sleep started for 15.0 seconds
+[INFO ] 2023-10-27 15:19:07.315 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 15:19:07.315 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 15:19:10.769 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-27 15:19:11.028 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-27 15:19:11.029 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-27 15:19:31.043 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 15:19:31.043 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 15:19:31.234 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-27 15:19:31.522 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-27 15:19:31.522 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:19:31.523 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:19:32.688 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 15:19:32.764 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 15:19:32.765 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 15:19:34.768 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:19:34.768 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:19:42.938 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 15:19:43.245 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 15:19:43.246 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-27 15:20:13.362 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:20:15.413 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 15:20:15.413 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 15:20:18.144 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-27 15:20:19.701 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-27 15:20:19.701 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-27 15:20:39.703 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 15:20:39.703 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 15:20:39.951 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-27 15:20:40.254 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-27 15:20:40.254 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:20:40.254 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:20:41.340 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 15:20:41.410 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 15:20:41.411 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 15:20:43.422 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:20:43.422 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 15:20:56.806 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 15:20:57.221 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 15:20:57.222 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-27 15:21:27.294 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:21:28.445 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-27 15:21:28.445 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-27 15:21:28.722 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Shipment'] to be present.
+[INFO ] 2023-10-27 15:21:29.298 [main] NativeBaseTest - Clicked //*[@text='Complete Shipment'] by xpath.
+[INFO ] 2023-10-27 15:21:29.298 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:21:29.298 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:21:30.473 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:21:30.562 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:21:30.562 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:21:30.562 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:21:45.755 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:21:46.069 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:40:35.650 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 15:40:35.654 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 15:40:35.699 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 15:40:35.699 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 15:40:35.699 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 15:40:35.700 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 15:40:35.700 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 15:40:44.817 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 15:40:44.899 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:40:44.899 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:40:45.802 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:40:47.107 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-27 15:40:47.108 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-27 15:40:47.108 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:40:48.231 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:40:50.414 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:40:50.644 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:40:50.644 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:40:50.644 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:40:51.613 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:40:51.832 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-27 15:40:51.832 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-27 15:40:51.832 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:40:52.634 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:40:54.354 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:40:54.544 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:40:54.544 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:40:54.544 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:40:55.478 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-27 15:40:55.701 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-27 15:40:55.716 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:40:55.716 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:40:56.552 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:40:57.282 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:40:57.282 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042818.
+[INFO ] 2023-10-27 15:40:57.282 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:41:10.954 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:41:13.390 [main] NativeBaseTest - Entered value 23042818 in //android.widget.EditText.
+[INFO ] 2023-10-27 15:41:13.395 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:41:13.396 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:41:14.511 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 15:41:14.712 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 15:41:14.712 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 15:41:36.617 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 15:41:37.090 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:41:37.090 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:41:37.739 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 15:41:38.602 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 15:41:38.602 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:41:38.602 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:41:39.863 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:41:39.998 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:43:41.663 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:43:41.663 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:43:41.817 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:43:42.096 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:43:42.149 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 15:44:22.178 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 15:45:02.199 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 15:45:42.480 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Handling Units'].
+[INFO ] 2023-10-27 15:45:42.480 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Handling Units'].
+[INFO ] 2023-10-27 15:45:45.219 [main] NativeBaseTest - Wait complete for the element //*[@text='Handling Units'] to be present.
+[INFO ] 2023-10-27 15:45:46.382 [main] NativeBaseTest - Clicked //*[@text='Handling Units'] by xpath.
+[INFO ] 2023-10-27 15:45:46.383 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Damage Reports'].
+[INFO ] 2023-10-27 15:45:46.383 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Damage Reports'].
+[INFO ] 2023-10-27 15:45:49.795 [main] NativeBaseTest - Wait complete for the element //*[@text='Damage Reports'] to be present.
+[INFO ] 2023-10-27 15:45:50.263 [main] NativeBaseTest - Clicked //*[@text='Damage Reports'] by xpath.
+[INFO ] 2023-10-27 15:45:50.263 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='dropDown3$openButton'].
+[INFO ] 2023-10-27 15:45:50.263 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='dropDown3$openButton'].
+[INFO ] 2023-10-27 15:45:52.634 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='dropDown3$openButton'] to be present.
+[INFO ] 2023-10-27 15:45:53.149 [main] NativeBaseTest - Clicked //*[@resource-id='dropDown3$openButton'] by xpath.
+[INFO ] 2023-10-27 15:45:53.150 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Wet'].
+[INFO ] 2023-10-27 15:45:53.150 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Wet'].
+[INFO ] 2023-10-27 15:45:54.834 [main] NativeBaseTest - Wait complete for the element //*[@text='Wet'] to be present.
+[INFO ] 2023-10-27 15:45:54.948 [main] NativeBaseTest - Clicked //*[@text='Wet'] by xpath.
+[INFO ] 2023-10-27 15:45:54.949 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 15:45:54.949 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 15:45:56.914 [main] NativeBaseTest - Wait complete for the element //*[@text='Add Photo'] to be present.
+[INFO ] 2023-10-27 15:45:57.431 [main] NativeBaseTest - Clicked //*[@text='Add Photo'] by xpath.
+[INFO ] 2023-10-27 15:45:57.432 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 15:45:59.684 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.ImageView[@content-desc='Shutter'].
+[INFO ] 2023-10-27 15:45:59.685 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.ImageView[@content-desc='Shutter'].
+[INFO ] 2023-10-27 15:46:00.643 [main] NativeBaseTest - Wait complete for the element //android.widget.ImageView[@content-desc='Shutter'] to be present.
+[INFO ] 2023-10-27 15:46:01.966 [main] NativeBaseTest - Clicked //android.widget.ImageView[@content-desc='Shutter'] by xpath.
+[INFO ] 2023-10-27 15:46:01.967 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.ImageButton[@content-desc='Done'].
+[INFO ] 2023-10-27 15:46:01.967 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.ImageButton[@content-desc='Done'].
+[INFO ] 2023-10-27 15:46:04.598 [main] NativeBaseTest - Wait complete for the element //android.widget.ImageButton[@content-desc='Done'] to be present.
+[INFO ] 2023-10-27 15:46:05.191 [main] NativeBaseTest - Clicked //android.widget.ImageButton[@content-desc='Done'] by xpath.
+[INFO ] 2023-10-27 15:46:06.609 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:46:06.609 [main] NativeBaseTest - Thread sleep started for 1.0 seconds
+[INFO ] 2023-10-27 15:46:07.807 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:46:07.823 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 15:46:07.823 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 15:46:08.844 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-27 15:46:10.344 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-27 15:46:10.345 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-27 15:46:43.929 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-27 15:46:46.742 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:46:46.742 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 15:46:46.742 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 15:46:47.600 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-27 15:46:47.931 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-27 15:46:47.931 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:46:47.931 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 15:47:02.929 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 15:47:04.058 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 15:47:04.058 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-27 15:47:04.239 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-27 15:47:04.463 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:47:04.463 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:47:04.875 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:47:06.687 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:47:06.687 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 15:47:06.687 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:47:06.907 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:47:07.684 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 15:47:07.685 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:47:07.686 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 15:47:08.910 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 15:47:09.263 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 15:47:09.264 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 15:47:10.117 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 15:47:10.768 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:47:10.768 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:50:01.476 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 15:50:01.480 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 15:50:01.524 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 15:50:01.525 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 15:50:01.525 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 15:50:01.525 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 15:50:01.525 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 15:50:12.097 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 15:50:12.187 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:50:12.187 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:50:13.060 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:50:14.480 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-27 15:50:14.480 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-27 15:50:14.480 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:50:14.615 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 15:50:16.142 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 15:50:16.358 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:50:16.358 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:50:16.358 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:50:17.377 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:50:18.718 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-27 15:50:18.718 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-27 15:50:18.719 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:50:18.840 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 15:50:20.096 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 15:50:20.685 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 15:50:20.686 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:50:20.686 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 15:50:21.613 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-27 15:50:21.821 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-27 15:50:21.838 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:50:21.838 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:50:22.258 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:50:22.765 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 15:50:22.766 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042818.
+[INFO ] 2023-10-27 15:50:22.766 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 15:50:23.269 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 15:50:24.431 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:50:24.431 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 15:52:24.492 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 15:53:04.533 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 15:53:44.561 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 16:02:48.124 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 16:02:48.127 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 16:02:48.167 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 16:02:48.168 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 16:02:48.168 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 16:02:48.169 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 16:02:48.170 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 16:02:55.351 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 16:02:55.440 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:02:55.440 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:02:56.336 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 16:02:56.558 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-27 16:02:56.559 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-27 16:02:56.559 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:02:58.001 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 16:02:59.567 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:02:59.797 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:02:59.798 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:02:59.798 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:03:00.722 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 16:03:00.897 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-27 16:03:00.897 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-27 16:03:00.897 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:03:02.205 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 16:03:02.925 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:03:03.517 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:03:03.518 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 16:03:03.518 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 16:03:04.471 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-27 16:03:04.684 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-27 16:03:04.700 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:03:04.701 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:03:05.469 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:03:05.656 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 16:03:05.656 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042818.
+[INFO ] 2023-10-27 16:03:05.657 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:03:20.578 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:03:21.309 [main] NativeBaseTest - Entered value 23042818 in //android.widget.EditText.
+[INFO ] 2023-10-27 16:03:21.314 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:03:21.314 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:03:22.427 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 16:03:22.608 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 16:03:22.609 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 16:03:42.243 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 16:03:42.698 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 16:03:42.698 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 16:03:43.593 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 16:03:45.073 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 16:03:45.073 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:03:45.074 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:03:46.412 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:03:46.552 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:05:31.569 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:05:31.569 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:05:31.734 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:05:32.018 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:05:32.086 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 16:06:12.126 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 16:06:52.163 [main] NativeBaseTest - Thread sleep started for 40.0 seconds
+[INFO ] 2023-10-27 16:07:32.452 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Handling Units'].
+[INFO ] 2023-10-27 16:07:32.453 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Handling Units'].
+[INFO ] 2023-10-27 16:07:36.067 [main] NativeBaseTest - Wait complete for the element //*[@text='Handling Units'] to be present.
+[INFO ] 2023-10-27 16:07:36.463 [main] NativeBaseTest - Clicked //*[@text='Handling Units'] by xpath.
+[INFO ] 2023-10-27 16:07:36.464 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Damage Reports'].
+[INFO ] 2023-10-27 16:07:36.466 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Damage Reports'].
+[INFO ] 2023-10-27 16:07:40.524 [main] NativeBaseTest - Wait complete for the element //*[@text='Damage Reports'] to be present.
+[INFO ] 2023-10-27 16:07:41.143 [main] NativeBaseTest - Clicked //*[@text='Damage Reports'] by xpath.
+[INFO ] 2023-10-27 16:07:41.143 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='dropDown3$openButton'].
+[INFO ] 2023-10-27 16:07:41.144 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='dropDown3$openButton'].
+[INFO ] 2023-10-27 16:07:43.573 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='dropDown3$openButton'] to be present.
+[INFO ] 2023-10-27 16:07:44.162 [main] NativeBaseTest - Clicked //*[@resource-id='dropDown3$openButton'] by xpath.
+[INFO ] 2023-10-27 16:07:44.162 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Wet'].
+[INFO ] 2023-10-27 16:07:44.163 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Wet'].
+[INFO ] 2023-10-27 16:07:45.774 [main] NativeBaseTest - Wait complete for the element //*[@text='Wet'] to be present.
+[INFO ] 2023-10-27 16:07:45.898 [main] NativeBaseTest - Clicked //*[@text='Wet'] by xpath.
+[INFO ] 2023-10-27 16:07:45.900 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 16:07:45.900 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Add Photo'].
+[INFO ] 2023-10-27 16:07:47.166 [main] NativeBaseTest - Wait complete for the element //*[@text='Add Photo'] to be present.
+[INFO ] 2023-10-27 16:07:47.666 [main] NativeBaseTest - Clicked //*[@text='Add Photo'] by xpath.
+[INFO ] 2023-10-27 16:07:47.666 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 16:07:50.514 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.ImageView[@content-desc='Shutter'].
+[INFO ] 2023-10-27 16:07:50.514 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.ImageView[@content-desc='Shutter'].
+[INFO ] 2023-10-27 16:07:50.718 [main] NativeBaseTest - Wait complete for the element //android.widget.ImageView[@content-desc='Shutter'] to be present.
+[INFO ] 2023-10-27 16:07:52.493 [main] NativeBaseTest - Clicked //android.widget.ImageView[@content-desc='Shutter'] by xpath.
+[INFO ] 2023-10-27 16:07:52.493 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.ImageButton[@content-desc='Done'].
+[INFO ] 2023-10-27 16:07:52.493 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.ImageButton[@content-desc='Done'].
+[INFO ] 2023-10-27 16:07:52.626 [main] NativeBaseTest - Wait complete for the element //android.widget.ImageButton[@content-desc='Done'] to be present.
+[INFO ] 2023-10-27 16:07:52.977 [main] NativeBaseTest - Clicked //android.widget.ImageButton[@content-desc='Done'] by xpath.
+[INFO ] 2023-10-27 16:07:52.977 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 16:07:55.661 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:07:55.662 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 16:07:57.728 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:07:57.737 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 16:07:57.737 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 16:07:58.500 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-27 16:08:00.348 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-27 16:08:00.348 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-27 16:08:02.838 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-27 16:08:05.808 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:08:05.809 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 16:08:05.809 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 16:08:06.631 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-27 16:08:06.951 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-27 16:08:06.952 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:08:06.952 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:08:08.245 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:08:08.388 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:08:08.389 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-27 16:08:09.506 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-27 16:08:09.706 [main] NativeBaseTest - Thread sleep started for 5.0 seconds
+[INFO ] 2023-10-27 16:08:14.717 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:08:14.718 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:08:14.919 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:08:16.305 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 16:08:16.305 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 16:08:16.305 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:08:16.587 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:08:19.588 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 16:08:19.588 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:08:19.588 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:08:20.373 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 16:08:23.093 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 16:08:23.093 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 16:11:03.670 [main] NativeBaseTest - Properties file load completed.
+[INFO ] 2023-10-27 16:11:03.675 [main] NativeBaseTest - FileInputStream closed
+[INFO ] 2023-10-27 16:11:03.728 [main] NativeBaseTest - Opening app Ryerson-POD
+[INFO ] 2023-10-27 16:11:03.728 [main] NativeBaseTest - App reset : false
+[INFO ] 2023-10-27 16:11:03.729 [main] NativeBaseTest - UiAUtomator2Options set.
+[INFO ] 2023-10-27 16:11:03.729 [main] NativeBaseTest - IP_ADDRESS fecthed from configuration properties
+[INFO ] 2023-10-27 16:11:03.729 [main] NativeBaseTest - PORT fecthed from configuration properties
+[INFO ] 2023-10-27 16:11:12.365 [main] NativeBaseTest - driver initialized with URL and Options.
+[INFO ] 2023-10-27 16:11:12.446 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:11:12.446 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:11:13.334 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 16:11:14.755 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Username'] by xpath.
+[INFO ] 2023-10-27 16:11:14.755 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Username'], Value : Driver10864.
+[INFO ] 2023-10-27 16:11:14.755 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:11:14.914 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Username'] to be present.
+[INFO ] 2023-10-27 16:11:16.453 [main] NativeBaseTest - Entered value Driver10864 in //android.widget.EditText[@text='Username'].
+[INFO ] 2023-10-27 16:11:17.225 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:11:17.225 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:11:17.226 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:11:18.160 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 16:11:18.388 [main] NativeBaseTest - Clicked //android.widget.EditText[@text='Password'] by xpath.
+[INFO ] 2023-10-27 16:11:18.388 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText[@text='Password'], Value : 70823.
+[INFO ] 2023-10-27 16:11:18.388 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:11:19.634 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText[@text='Password'] to be present.
+[INFO ] 2023-10-27 16:11:20.931 [main] NativeBaseTest - Entered value 70823 in //android.widget.EditText[@text='Password'].
+[INFO ] 2023-10-27 16:11:21.112 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:11:21.112 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 16:11:21.113 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.ViewGroup[contains(@resource-id,'actionButton2')].
+[INFO ] 2023-10-27 16:11:22.089 [main] NativeBaseTest - Wait complete for the element //android.view.ViewGroup[contains(@resource-id,'actionButton2')] to be present.
+[INFO ] 2023-10-27 16:11:22.300 [main] NativeBaseTest - Clicked //android.view.ViewGroup[contains(@resource-id,'actionButton2')] by xpath.
+[INFO ] 2023-10-27 16:11:22.317 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:11:22.318 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:11:23.149 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:11:23.384 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 16:11:23.384 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042818.
+[INFO ] 2023-10-27 16:11:23.384 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:11:39.827 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:11:40.511 [main] NativeBaseTest - Entered value 23042818 in //android.widget.EditText.
+[INFO ] 2023-10-27 16:11:40.516 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:11:40.516 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:11:41.670 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 16:11:41.869 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 16:11:41.869 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 16:12:00.463 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 16:12:01.951 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 16:12:01.951 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 16:12:02.320 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 16:12:03.117 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 16:12:03.117 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:12:03.117 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:12:04.248 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:12:04.377 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:14:24.158 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:14:24.158 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:14:24.332 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:14:24.688 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:14:26.138 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 16:14:26.139 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Click here to Unassign Shipment'].
+[INFO ] 2023-10-27 16:14:26.964 [main] NativeBaseTest - Wait complete for the element //*[@text='Click here to Unassign Shipment'] to be present.
+[INFO ] 2023-10-27 16:14:27.817 [main] NativeBaseTest - Clicked //*[@text='Click here to Unassign Shipment'] by xpath.
+[INFO ] 2023-10-27 16:14:27.817 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')].
+[INFO ] 2023-10-27 16:14:59.009 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[contains(@text,'Enter Comments') or contains(@text,'Enter Reason')] to be present.
+[INFO ] 2023-10-27 16:15:01.940 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:15:01.940 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 16:15:01.941 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Proceed'].
+[INFO ] 2023-10-27 16:15:02.932 [main] NativeBaseTest - Wait complete for the element //*[@text='Proceed'] to be present.
+[INFO ] 2023-10-27 16:15:03.233 [main] NativeBaseTest - Clicked //*[@text='Proceed'] by xpath.
+[INFO ] 2023-10-27 16:15:03.233 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:15:03.233 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:15:04.503 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:15:04.711 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:15:04.712 [main] NativeBaseTest - Thread sleep started for 10.0 seconds
+[INFO ] 2023-10-27 16:15:14.724 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='text4'].
+[INFO ] 2023-10-27 16:15:14.966 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='text4'] to be present.
+[INFO ] 2023-10-27 16:15:15.122 [main] NativeBaseTest - Thread sleep started for 5.0 seconds
+[INFO ] 2023-10-27 16:15:20.138 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:15:20.140 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:15:20.430 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:15:20.798 [main] NativeBaseTest - Clicked //android.widget.EditText by xpath.
+[INFO ] 2023-10-27 16:15:20.798 [main] NativeBaseTest - enterByXpath arguments received - Xpath : //android.widget.EditText, Value : 23042660.
+[INFO ] 2023-10-27 16:15:20.798 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.EditText.
+[INFO ] 2023-10-27 16:15:22.069 [main] NativeBaseTest - Wait complete for the element //android.widget.EditText to be present.
+[INFO ] 2023-10-27 16:15:23.211 [main] NativeBaseTest - Entered value 23042660 in //android.widget.EditText.
+[INFO ] 2023-10-27 16:15:23.212 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:15:23.212 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.widget.TextView[@text='Get shipment details'].
+[INFO ] 2023-10-27 16:15:24.429 [main] NativeBaseTest - Wait complete for the element //android.widget.TextView[@text='Get shipment details'] to be present.
+[INFO ] 2023-10-27 16:15:24.717 [main] NativeBaseTest - Clicked //android.widget.TextView[@text='Get shipment details'] by xpath.
+[INFO ] 2023-10-27 16:15:24.717 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'].
+[INFO ] 2023-10-27 16:15:43.533 [main] NativeBaseTest - Wait complete for the element //android.view.View[@resource-id='RyersonPOD.Shipment_DetailNative$headerTitle'] to be present.
+[INFO ] 2023-10-27 16:15:43.858 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 16:15:43.859 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Start Shipment'].
+[INFO ] 2023-10-27 16:15:44.120 [main] NativeBaseTest - Wait complete for the element //*[@text='Start Shipment'] to be present.
+[INFO ] 2023-10-27 16:15:45.662 [main] NativeBaseTest - Clicked //*[@text='Start Shipment'] by xpath.
+[INFO ] 2023-10-27 16:15:45.663 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:15:45.663 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:15:47.036 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:15:47.170 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:17:05.125 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:17:05.125 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:17:05.281 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:17:05.787 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:17:05.790 [main] NativeBaseTest - Thread sleep started for 15.0 seconds
+[INFO ] 2023-10-27 16:17:21.214 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 16:17:21.214 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 16:17:24.971 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-27 16:17:25.268 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-27 16:17:25.268 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-27 16:17:45.282 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 16:17:45.283 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 16:17:45.548 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-27 16:17:45.848 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-27 16:17:45.849 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:17:45.850 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:17:46.931 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 16:17:47.061 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 16:17:47.062 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 16:17:49.063 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:17:49.066 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:18:00.364 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 16:18:00.640 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 16:18:00.641 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-27 16:18:30.768 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:18:33.077 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 16:18:33.077 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='image2'].
+[INFO ] 2023-10-27 16:18:36.926 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='image2'] to be present.
+[INFO ] 2023-10-27 16:18:37.232 [main] NativeBaseTest - Clicked //*[@resource-id='image2'] by xpath.
+[INFO ] 2023-10-27 16:18:37.232 [main] NativeBaseTest - Thread sleep started for 20.0 seconds
+[INFO ] 2023-10-27 16:18:57.236 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 16:18:57.236 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='actionButton2$caption'].
+[INFO ] 2023-10-27 16:18:57.952 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='actionButton2$caption'] to be present.
+[INFO ] 2023-10-27 16:18:58.299 [main] NativeBaseTest - Clicked //*[@resource-id='actionButton2$caption'] by xpath.
+[INFO ] 2023-10-27 16:18:58.299 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:18:58.300 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:18:59.530 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 16:18:59.661 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 16:18:59.661 [main] NativeBaseTest - Thread sleep started for 2.0 seconds
+[INFO ] 2023-10-27 16:19:01.669 [main] NativeBaseTest - clickById arguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:19:01.670 [main] NativeBaseTest - waitForElementToBePresentById aruguments received - ID : android:id/button1.
+[INFO ] 2023-10-27 16:19:15.293 [main] NativeBaseTest - Wait complete for the element android:id/button1 to be present.
+[INFO ] 2023-10-27 16:19:15.591 [main] NativeBaseTest - Clicked android:id/button1 by ID.
+[INFO ] 2023-10-27 16:19:15.592 [main] NativeBaseTest - Thread sleep started for 30.0 seconds
+[INFO ] 2023-10-27 16:19:45.770 [main] NativeBaseTest - Back key pressed
+[INFO ] 2023-10-27 16:19:47.513 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-27 16:19:47.514 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@text='Complete Shipment'].
+[INFO ] 2023-10-27 16:19:47.850 [main] NativeBaseTest - Wait complete for the element //*[@text='Complete Shipment'] to be present.
+[INFO ] 2023-10-27 16:19:48.103 [main] NativeBaseTest - Clicked //*[@text='Complete Shipment'] by xpath.
+[INFO ] 2023-10-27 16:19:48.103 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:19:48.103 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:19:49.329 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:19:49.478 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
+[INFO ] 2023-10-27 16:19:49.478 [main] NativeBaseTest - clickByXpath arguments received - Xpath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:19:49.478 [main] NativeBaseTest - waitForElementToBePresent aruguments received - XPath : //*[@resource-id='android:id/button1'].
+[INFO ] 2023-10-27 16:20:04.102 [main] NativeBaseTest - Wait complete for the element //*[@resource-id='android:id/button1'] to be present.
+[INFO ] 2023-10-27 16:20:04.458 [main] NativeBaseTest - Clicked //*[@resource-id='android:id/button1'] by xpath.
